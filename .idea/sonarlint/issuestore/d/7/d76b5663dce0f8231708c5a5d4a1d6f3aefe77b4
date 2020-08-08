@@ -1,0 +1,7 @@
+
+o	php:S4144"TUpdate this method so that its implementation is not identical to "pum" on line 356.(ç¾ÑÏúÿÿÿÿ
+n	php:S1192õ"SDefine a constant instead of duplicating this literal "popmake_initialize" 3 times.(ÌéÌ³ûÿÿÿÿ
+a	php:S1192%"GDefine a constant instead of duplicating this literal "prefix" 3 times.(‹ÿ„ÿÿÿÿÿ
+b	php:S1192î"LDefine a constant instead of duplicating this literal "PUM_Install" 5 times.(–·¸‹
+b	php:S1192¢"LDefine a constant instead of duplicating this literal "popup-maker" 5 times.(“›…ù
+cphp:S101V"ORename class "Popup_Maker" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Áïº

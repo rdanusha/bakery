@@ -1,0 +1,28 @@
+
+bjavascript:S2137C"ADo not use "undefined" to declare a parameter - use another name.(‰ÓÆ‘ùÿÿÿÿ
+cjavascript:S2137ä
+"ADo not use "undefined" to declare a parameter - use another name.(‰ÓÆ‘ùÿÿÿÿ
+ljavascript:S1871°"JThis case's code block is the same as the block for the case on line 3497.(ËÀÍ¥ıÿÿÿÿ
+:javascript:S2814€"'selector' is already defined.(Òéñ0
+cjavascript:S2137²"ADo not use "undefined" to declare a parameter - use another name.(‰ÓÆ‘ùÿÿÿÿ
+Sjavascript:S1854Æ"6Remove this useless assignment to variable "settings".(Ÿª³
+Xjavascript:S1854Ã";Remove this useless assignment to variable "$last_trigger".(à ô
+Tjavascript:S1481Ï"7Remove the declaration of the unused 'cookie' variable.(—˜¥®
+cjavascript:S2137ª"ADo not use "undefined" to declare a parameter - use another name.(‰ÓÆ‘ùÿÿÿÿ
+cjavascript:S2137"ADo not use "undefined" to declare a parameter - use another name.(‰ÓÆ‘ùÿÿÿÿ
+Vjavascript:S1481Æ"9Remove the declaration of the unused 'settings' variable.(Ÿª³
+cjavascript:S2137Î"ADo not use "undefined" to declare a parameter - use another name.(‰ÓÆ‘ùÿÿÿÿ
+kjavascript:S1871®"NThis branch's code block is the same as the block for the branch on line 1452.(ø¡³¿
+cjavascript:S2137“
+"ADo not use "undefined" to declare a parameter - use another name.(‰ÓÆ‘ùÿÿÿÿ
+cjavascript:S2137®"ADo not use "undefined" to declare a parameter - use another name.(‰ÓÆ‘ùÿÿÿÿ
+cjavascript:S2137¤"ADo not use "undefined" to declare a parameter - use another name.(‰ÓÆ‘ùÿÿÿÿ
+cjavascript:S2137À"ADo not use "undefined" to declare a parameter - use another name.(Ÿ©Ë©øÿÿÿÿ
+Rjavascript:S1117³"0'cookie' is already declared in the upper scope.(ÊŸÆ¶üÿÿÿÿ
+cjavascript:S2137ç"ADo not use "undefined" to declare a parameter - use another name.(‰ÓÆ‘ùÿÿÿÿ
+Vjavascript:S1301Ã"9"switch" statements should have at least 3 "case" clauses(œÖ¥ğ
+javascript:S4165—"_Review this useless assignment: "i" already holds the assigned value along all execution paths.(¾œßÖøÿÿÿÿ
+Xjavascript:S1481Ç"6Remove the declaration of the unused 'check' variable.(¢â…¬ùÿÿÿÿ
+cjavascript:S2137î
+"ADo not use "undefined" to declare a parameter - use another name.(‰ÓÆ‘ùÿÿÿÿ
+ljavascript:S1871Ÿ"JThis case's code block is the same as the block for the case on line 3477.(×‚Á¹ûÿÿÿÿ

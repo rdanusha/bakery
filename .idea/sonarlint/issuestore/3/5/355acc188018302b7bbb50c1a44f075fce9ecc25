@@ -1,0 +1,293 @@
+
+‚javascript:S3579·"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(©¶ç°şÿÿÿÿ
+@javascript:S2814¡"'min_date' is already defined.(ˆ×Ş¾ÿÿÿÿÿ
+Bjavascript:S2814¾" 'split_date' is already defined.(€Á’şÿÿÿÿ
+4javascript:S2814£"'a' is already defined.(ÑØÖ¬
+Bjavascript:S2814à"%'shipping_method' is already defined.(Ó–áà
+|javascript:S4165"_Review this useless assignment: "i" already holds the assigned value along all execution paths.(îĞ’œ
+‚javascript:S3579»"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(àëë°ÿÿÿÿÿ
+Fjavascript:S2814²"$'noOfDaysToFind' is already defined.(–‡â•ùÿÿÿÿ
+‡javascript:S3579æ"eMake "shipping_info" an object if it must have named properties; otherwise, use a numeric index here.(òäºùÿÿÿÿ
+~javascript:S2703ƒ"bAdd the "let", "const" or "var" keyword to this declaration of "shipping_day" to make it explicit.(áÇá
+
+vjavascript:S2703ä"YAdd the "let", "const" or "var" keyword to this declaration of "day" to make it explicit.(×›¸
+Sjavascript:S1854’"1Remove this useless assignment to variable "day".(ôÜÃÈÿÿÿÿÿ
+<javascript:S2814Í
+"'data' is already defined.(ˆ©€’ùÿÿÿÿ
+Qjavascript:S2814ä"/'time_slot_field_mandatory' is already defined.(Í‡œùÿÿÿÿÿ
+ljavascript:S1871“	"JThis case's code block is the same as the block for the case on line 1150.(½î†şÿÿÿÿ
+Pjavascript:S1854¨"3Remove this useless assignment to variable "today".(ì—ÿ·
+5javascript:S2814ß"'dy' is already defined.(¨•ÇÍ
+yjavascript:S2703ù"WAdd the "let", "const" or "var" keyword to this declaration of "j" to make it explicit.(é†áùÿÿÿÿ
+Ljavascript:S2814"*'current_day_to_check' is already defined.(è‰ÕØûÿÿÿÿ
+Ajavascript:S2814"'hour_time' is already defined.(ì‘£Øşÿÿÿÿ
+Qjavascript:S2814ÿ"/'time_slot_field_mandatory' is already defined.(Í‡œùÿÿÿÿÿ
+Wjavascript:S1854î":Remove this useless assignment to variable "disabledDays".(¤‹Ô°
+_javascript:S1854"=Remove this useless assignment to variable "if_subscription".(ˆ¿°øÿÿÿÿ
+|javascript:S2703"ZAdd the "let", "const" or "var" keyword to this declaration of "sort" to make it explicit.(Ëš¿åÿÿÿÿÿ
+@javascript:S2814à"#'delay_weekday' is already defined.(ı¡Ä»
+4javascript:S2814Ş"'b' is already defined.(ñÇÜ‡
+Zjavascript:S1481‰"=Remove the declaration of the unused 'current_time' variable.(–ûù…
+Fjavascript:S2814–"$'ordd_next_date' is already defined.(†°çñıÿÿÿÿ
+\javascript:S1854":Remove this useless assignment to variable "t_month_days".(ÕŞˆüÿÿÿÿ
+Hjavascript:S2814¸"&'availability_arr' is already defined.(¦üĞ×úÿÿÿÿ
+Yjavascript:S1854®"<Remove this useless assignment to variable "selected_value".(ö×ñè
+djavascript:S2259"GTypeError can be thrown as "new_l_end" might be null or undefined here.(Ó¡Ø
+9javascript:S2814 "'d' is already defined.(¸ÃáŞÿÿÿÿÿ
+>javascript:S2814Ì"!'current_day' is already defined.(çò•Â
+Djavascript:S2814±"''time_slot_charges' is already defined.(¯»¢Ş
+Hjavascript:S2814¹"&'availability_str' is already defined.(ªš¾şÿÿÿÿ
+Fjavascript:S2814­"$'ordd_next_date' is already defined.(†°çñıÿÿÿÿ
+Hjavascript:S2814¿"&'availability_arr' is already defined.(¦üĞ×úÿÿÿÿ
+Ujavascript:S1854“"8Remove this useless assignment to variable "bookedDays".(åñâç
+Yjavascript:S1854•"<Remove this useless assignment to variable "selected_value".(îõ·
+:javascript:S2814"'tp_inst' is already defined.(¨âï£
+@javascript:S2814æ"'location' is already defined.(ÖËéûÿÿÿÿ
+5javascript:S2814ß"'dd' is already defined.(¨•ÇÍ
+javascript:S3579è"eMake "shipping_info" an object if it must have named properties; otherwise, use a numeric index here.(¡Ğ¢M
+jjavascript:S2259„"HTypeError can be thrown as "delay_days" might be null or undefined here.(ğÉßÍùÿÿÿÿ
+Ojavascript:S1854õ"2Remove this useless assignment to variable "prev".(«Š°»
+}javascript:S3579À"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(¿÷Ô¨
+4javascript:S2814Ü"'b' is already defined.(…ÇÜ
+Zjavascript:S1854Ì"=Remove this useless assignment to variable "cut_off_weekday".(®ÖĞÔ
+pjavascript:S1871ú"NThis branch's code block is the same as the block for the branch on line 2935.(‰µüÜüÿÿÿÿ
+Ajavascript:S2814å"'hour_time' is already defined.(úèÔØüÿÿÿÿ
+=javascript:S2814ö" 'monthValue' is already defined.(çå»Ä
+<javascript:S2814ø"'yearValue' is already defined.(£¼¢”
+\javascript:S1854Ù":Remove this useless assignment to variable "t_month_days".(ÕŞˆüÿÿÿÿ
+@javascript:S2814¾"#'delay_weekday' is already defined.(ı¡Ä»
+{javascript:S2703Ÿ"YAdd the "let", "const" or "var" keyword to this declaration of "end" to make it explicit.(Ÿ€Šùÿÿÿÿ
+=javascript:S2814À" 'delay_date' is already defined.(áñ¯Æ
+;javascript:S2814Ã"'min_date' is already defined.(õê
+\javascript:S1481ª":Remove the declaration of the unused 'currentdt' variable.(…ì¹ıÿÿÿÿ
+@javascript:S2814Å"'min_date' is already defined.(×ˆ¥Çüÿÿÿÿ
+Ujavascript:S1117æ"8'shipping_class' is already declared in the upper scope.(àõäÉ
+pjavascript:S1871£"NThis branch's code block is the same as the block for the branch on line 3745.(ÍÌ áùÿÿÿÿ
+\javascript:S4030”"?Either use this collection's contents or remove the collection.(‰Èš“
+@javascript:S2814£"'min_date' is already defined.(×ˆ¥Çüÿÿÿÿ
+‚javascript:S3579¿"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(øÊÜ½úÿÿÿÿ
+Kjavascript:S2814ğ")'timeslot_custom_css' is already defined.(¤„ù·ùÿÿÿÿ
+pjavascript:S1871‰"NThis branch's code block is the same as the block for the branch on line 3847.(ÍÌ áùÿÿÿÿ
+…javascript:S2703Ö"hAdd the "let", "const" or "var" keyword to this declaration of "shipping_class_arr" to make it explicit.(Ëì¨
+“javascript:S2681Ê"vThis line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Š‚¿ï
+Bjavascript:S2814Ê"%'shipping_method' is already defined.(Ó–áà
+>javascript:S2814×"!'current_day' is already defined.(çò•Â
+Rjavascript:S1481õ"5Remove the declaration of the unused 'prev' variable.(«Š°»
+4javascript:S2814ü"'c' is already defined.(¸¾š˜
+>javascript:S2814›"!'current_day' is already defined.(çò•Â
+‚javascript:S3579¼"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(’·Í³şÿÿÿÿ
+‚javascript:S3579¾"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(©¶ç°şÿÿÿÿ
+Yjavascript:S1854™"7Remove this useless assignment to variable "currentdt".(…ì¹ıÿÿÿÿ
+Gjavascript:S2814Í"%'shipping_method' is already defined.(¿£Æ­ÿÿÿÿÿ
+Vjavascript:S1481’"4Remove the declaration of the unused 'day' variable.(ôÜÃÈÿÿÿÿÿ
+kjavascript:S1871º"NThis branch's code block is the same as the block for the branch on line 2616.(­Ô¤¡
+Ajavascript:S2814ë"'hour_time' is already defined.(ì‘£Øşÿÿÿÿ
+Bjavascript:S2814ã" 'delay_days' is already defined.(­¹§Çüÿÿÿÿ
+Xjavascript:S1481Ø"6Remove the declaration of the unused 't_day' variable.(Üâ²ıÿÿÿÿ
+Zjavascript:S1854ä"8Remove this useless assignment to variable "delay_time".(×€×ùÿÿÿÿ
+@javascript:S2814·"'dayValue' is already defined.(®•ÖÒøÿÿÿÿ
+Yjavascript:S1854¢"<Remove this useless assignment to variable "selected_value".(ö×ñè
+7javascript:S2814Õ"'date' is already defined.(ş°Û‚
+‡javascript:S3579é"eMake "shipping_info" an object if it must have named properties; otherwise, use a numeric index here.(çëˆüÿÿÿÿ
+Bjavascript:S2814Ü
+"%'option_selected' is already defined.(ñÓı¶
+Rjavascript:S1854Š"5Remove this useless assignment to variable "minDate".(½ßğ
+}javascript:S3579º"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(œûÙò
+Ljavascript:S2814¿"*'date_field_mandatory' is already defined.(ÓÒÙüÿÿÿÿ
+Hjavascript:S2814°"&'availability_arr' is already defined.(¦üĞ×úÿÿÿÿ
+‚javascript:S3579´"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(àëë°ÿÿÿÿÿ
+Ajavascript:S2814Â"'hour_time' is already defined.(úèÔØüÿÿÿÿ
+gjavascript:S905²"FExpected an assignment or function call and instead saw an expression.(ù‹°µüÿÿÿÿ
+_javascript:S1481"=Remove the declaration of the unused 't_month_days' variable.(ÕŞˆüÿÿÿÿ
+pjavascript:S1871î"NThis branch's code block is the same as the block for the branch on line 3690.(§àãîıÿÿÿÿ
+Cjavascript:S2814"!'time_format' is already defined.(‰Ë›‡ÿÿÿÿÿ
+Zjavascript:S1854Š"=Remove this useless assignment to variable "current_weekday".(¦ÿğÇ
+<javascript:S2814¸"'yearValue' is already defined.(œ»´×
+Fjavascript:S2814‹"$'specific_dates' is already defined.(»è—Œÿÿÿÿÿ
+Hjavascript:S2814±"&'availability_str' is already defined.(ªš¾şÿÿÿÿ
+Cjavascript:S2814Á"!'time_format' is already defined.(‰Ë›‡ÿÿÿÿÿ
+jjavascript:S1871Å"MThis branch's code block is the same as the block for the branch on line 702.(å¥‡
+‚javascript:S3579µ"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(’·Í³şÿÿÿÿ
+=javascript:S2814ˆ" 'split_date' is already defined.(²µå˜
+Yjavascript:S1854ª"7Remove this useless assignment to variable "currentdt".(…ì¹ıÿÿÿÿ
+}javascript:S3923š"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ôÜùÎşÿÿÿÿ
+pjavascript:S1871„"NThis branch's code block is the same as the block for the branch on line 3712.(¦Ó¯âıÿÿÿÿ
+9javascript:S2814“"'b' is already defined.(å€ã°ıÿÿÿÿ
+Sjavascript:S1481Ô"6Remove the declaration of the unused 'today' variable.(ì—ÿ·
+Ajavascript:S2814Ú"$'noOfDaysToFind' is already defined.(û‰Ú¡
+}javascript:S3923ü"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ôÜùÎşÿÿÿÿ
+}javascript:S3579¹"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(¿÷Ô¨
+ljavascript:S1871Í	"JThis case's code block is the same as the block for the case on line 1211.(¯¢à¸üÿÿÿÿ
+Zjavascript:S1481ğ"=Remove the declaration of the unused 'current_time' variable.(–ûù…
+‡javascript:S2703Ù"jAdd the "let", "const" or "var" keyword to this declaration of "product_category_arr" to make it explicit.(­¦Êº
+9javascript:S2814 "'m' is already defined.(¸ÃáŞÿÿÿÿÿ
+]javascript:S1481Ì"@Remove the declaration of the unused 'cut_off_weekday' variable.(®ÖĞÔ
+8javascript:S1116ª"Unnecessary semicolon.(Ñ——›ùÿÿÿÿ
+6javascript:S2814ù"'all' is already defined.(¬õ¶û
+jjavascript:S1871À"NThis branch's code block is the same as the block for the branch on line 2622.(ÍãÍ
+Ijavascript:S2814ä"''clear_button_text' is already defined.(­şßÏşÿÿÿÿ
+Bjavascript:S2814ñ"%'current_weekday' is already defined.(¦ÿğÇ
+javascript:S2703Ï"nAdd the "let", "const" or "var" keyword to this declaration of "common_delivery_days_str" to make it explicit.(²•¼úÿÿÿÿ
+Ljavascript:S2814ş"*'current_day_to_check' is already defined.(è‰ÕØûÿÿÿÿ
+Ljavascript:S2814Ê"/'time_slot_field_mandatory' is already defined.(”Ôñ¼
+tjavascript:S2703¡"WAdd the "let", "const" or "var" keyword to this declaration of "i" to make it explicit.(îĞ’œ
+4javascript:S2814Ø"'b' is already defined.(…ÇÜ
+Pjavascript:S1854­"3Remove this useless assignment to variable "today".(ì—ÿ·
+Cjavascript:S2814Ä"&'availability_str' is already defined.(·—“ª
+Cjavascript:S2814è"&'shipping_methods' is already defined.(ÚåìÇ
+8javascript:S2814’"'split' is already defined.(ëğºˆ
+ljavascript:S1871ƒ	"JThis case's code block is the same as the block for the case on line 1150.(„Ç‰£şÿÿÿÿ
+ajavascript:S1481"?Remove the declaration of the unused 'specific_dates' variable.(»è—Œÿÿÿÿÿ
+9javascript:S2814 "'y' is already defined.(¸ÃáŞÿÿÿÿÿ
+‚javascript:S3579¸"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(øÊÜ½úÿÿÿÿ
+Yjavascript:S1854å"7Remove this useless assignment to variable "hour_time".(úèÔØüÿÿÿÿ
+pjavascript:S1871"NThis branch's code block is the same as the block for the branch on line 3839.(ÍÌ áùÿÿÿÿ
+pjavascript:S1871ÿ"NThis branch's code block is the same as the block for the branch on line 3837.(¾ Ç¥üÿÿÿÿ
+Ajavascript:S2814˜"'hour_time' is already defined.(úèÔØüÿÿÿÿ
+4javascript:S2814Ú"'b' is already defined.(ñÇÜ‡
+Zjavascript:S1854»"8Remove this useless assignment to variable "delay_time".(×€×ùÿÿÿÿ
+kjavascript:S1871ƒ"NThis branch's code block is the same as the block for the branch on line 2044.(á¢–¬
+Bjavascript:S2814Õ" 'delay_days' is already defined.(»•«³ùÿÿÿÿ
+@javascript:S2814—"#'disabled_date' is already defined.(Çêı‡
+tjavascript:S2703®"XAdd the "let", "const" or "var" keyword to this declaration of "ii" to make it explicit.(Ã´—
+
+;javascript:S2814ÿ	"'location' is already defined.(Æ­¿„
+Ajavascript:S2814Ç"'hour_time' is already defined.(úèÔØüÿÿÿÿ
+gjavascript:S1871¢	"JThis case's code block is the same as the block for the case on line 1150.(´¯Î†
+@javascript:S2814ë"#'specific_date' is already defined.(ó¦‡
+Ujavascript:S1854Ø"3Remove this useless assignment to variable "t_day".(Üâ²ıÿÿÿÿ
+Zjavascript:S1854¶"8Remove this useless assignment to variable "delay_time".(×€×ùÿÿÿÿ
+pjavascript:S1871–"NThis branch's code block is the same as the block for the branch on line 1684.(ÈÓ‘úÿÿÿÿ
+Zjavascript:S1481î"=Remove the declaration of the unused 'disabledDays' variable.(¤‹Ô°
+]javascript:S1481Š"@Remove the declaration of the unused 'current_weekday' variable.(¦ÿğÇ
+kjavascript:S1871©"NThis branch's code block is the same as the block for the branch on line 3751.(ñÏÁ
+Ajavascript:S2814Ï"'hour_time' is already defined.(ì‘£Øşÿÿÿÿ
+Gjavascript:S2814•"%'shipping_method' is already defined.(çó¤åüÿÿÿÿ
+Bjavascript:S2814Ü"%'shipping_method' is already defined.(¶Šì
+_javascript:S1481Ù"=Remove the declaration of the unused 't_month_days' variable.(ÕŞˆüÿÿÿÿ
+pjavascript:S1871ı"NThis branch's code block is the same as the block for the branch on line 2935.(İŠıÚşÿÿÿÿ
+8javascript:S1116«"Unnecessary semicolon.(ÃÈâ½úÿÿÿÿ
+pjavascript:S1871«"NThis branch's code block is the same as the block for the branch on line 3753.(ÍÌ áùÿÿÿÿ
+Ajavascript:S2814Ä"'hour_time' is already defined.(úèÔØüÿÿÿÿ
+Sjavascript:S1481­"6Remove the declaration of the unused 'today' variable.(ì—ÿ·
+Cjavascript:S2814Ş"!'time_format' is already defined.(‰Ë›‡ÿÿÿÿÿ
+Ajavascript:S2814–"'hour_time' is already defined.(ÓĞÂßıÿÿÿÿ
+kjavascript:S1871š"NThis branch's code block is the same as the block for the branch on line 1045.(å¥‡
+;javascript:S2814÷"'dayValue' is already defined.(‘Ãô
+8javascript:S2814Ã"'split' is already defined.(ëğºˆ
+=javascript:S2814×" 'delay_days' is already defined.(ˆ¹Õ
+9javascript:S2814í"'c' is already defined.(ÊĞğ¿ûÿÿÿÿ
+4javascript:S2814±"'m' is already defined.( Ââ•
+kjavascript:S1871Ë
+"NThis branch's code block is the same as the block for the branch on line 1307.(œÜª¹
+Ljavascript:S2814è"*'date_field_mandatory' is already defined.(²š“ëúÿÿÿÿ
+Ujavascript:S1854ú"9Remove this useless assignment to variable "time_enable".(àòÅK
+Bjavascript:S2814×" 'delay_days' is already defined.(­¹§Çüÿÿÿÿ
+pjavascript:S1871¡"NThis branch's code block is the same as the block for the branch on line 3743.(¾ Ç¥üÿÿÿÿ
+Ajavascript:S2814Ì"'hour_time' is already defined.(úèÔØüÿÿÿÿ
+:javascript:S2814»"'tp_inst' is already defined.(¨âï£
+Ejavascript:S2814ş"#'shipping_date' is already defined.(‹»†³ùÿÿÿÿ
+_javascript:S1481Ó"BRemove the declaration of the unused 'disabled_days_arr' variable.(ï€æÙ
+|javascript:S4165‡"_Review this useless assignment: "i" already holds the assigned value along all execution paths.(îĞ’œ
+=javascript:S2814Ô" 'split_date' is already defined.(õë‰ù
+Ejavascript:S2814³"#'specific_date' is already defined.(ÛÑıÿÿÿÿ
+gjavascript:S1854"ERemove this useless assignment to variable "delivery_dates_to_check".(úİ½›ùÿÿÿÿ
+5javascript:S2814ß"'dm' is already defined.(¨•ÇÍ
+4javascript:S2814±"'y' is already defined.( Ââ•
+Sjavascript:S1481"6Remove the declaration of the unused 't_day' variable.(†ÃİÕ
+Ajavascript:S2814Ê"'hour_time' is already defined.(ì‘£Øşÿÿÿÿ
+Ajavascript:S2814è"'hour_time' is already defined.(úèÔØüÿÿÿÿ
+njavascript:S2259à"QTypeError can be thrown as "delay_days_to_check" might be null or undefined here.(¤êÖ
+4javascript:S2814‘"'b' is already defined.(İğÕÚ
+^javascript:S1854©"ARemove this useless assignment to variable "increment_delay_day".(ÎÂ±
+ljavascript:S1871˜	"JThis case's code block is the same as the block for the case on line 1150.(âôÄÚûÿÿÿÿ
+Yjavascript:S1854è"7Remove this useless assignment to variable "hour_time".(úèÔØüÿÿÿÿ
+6javascript:S2814¹"'all' is already defined.(¬õ¶û
+Jjavascript:S2814ù"-'shipping_package_method' is already defined.(¯Ö
+jjavascript:S2259Â"NTypeError can be thrown as "availability_arr" might be null or undefined here.(×Êö
+Pjavascript:S1854"3Remove this useless assignment to variable "t_day".(†ÃİÕ
+~javascript:S2703Ğ"aAdd the "let", "const" or "var" keyword to this declaration of "is_specific" to make it explicit.(°ŸòÒ
+}javascript:S3579Á"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(œûÙò
+>javascript:S2814>""'default_date' is already defined.(ª×ßÔ
+Ejavascript:S2814"('shipping_method_id' is already defined.(„åøÒ
+Ajavascript:S2814É"'hour_time' is already defined.(úèÔØüÿÿÿÿ
+>javascript:S2814"!'current_day' is already defined.(çò•Â
+5javascript:S2814Â"'dy' is already defined.(¨•ÇÍ
+Ajavascript:S2814Ó"$'specific_dates' is already defined.(šï×Ñ
+Gjavascript:S2814Ï"%'shipping_method' is already defined.(§ü¥ùÿÿÿÿ
+5javascript:S2814Â"'dm' is already defined.(¨•ÇÍ
+‚javascript:S3579½"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(ùÆ¡õúÿÿÿÿ
+Ejavascript:S2814Ğ"('shipping_method_id' is already defined.(„åøÒ
+2javascript:S1116"Unnecessary semicolon.(òÍ¶°
+?javascript:S2814à"'weekday' is already defined.(¾ƒËŠûÿÿÿÿ
+Ajavascript:S2814›"'hour_time' is already defined.(úèÔØüÿÿÿÿ
+Yjavascript:S1854š"<Remove this useless assignment to variable "selected_value".(ö×ñè
+‚javascript:S3579¶"`Make "weekdays" an object if it must have named properties; otherwise, use a numeric index here.(ùÆ¡õúÿÿÿÿ
+=javascript:S2814¶" 'monthValue' is already defined.(”•ÂÒ
+4javascript:S2814±"'d' is already defined.( Ââ•
+Ljavascript:S2814Æ"*'date_field_mandatory' is already defined.(ÓÒÙüÿÿÿÿ
+Hjavascript:S2814ï"&'shipping_methods' is already defined.(Æ„ùÑúÿÿÿÿ
+Ujavascript:S1481Š"8Remove the declaration of the unused 'minDate' variable.(½ßğ
+=javascript:S2814è" 'option_str' is already defined.(é¸›ç
+5javascript:S2814Â"'dd' is already defined.(¨•ÇÍ
+@javascript:S2814ö"'min_date' is already defined.(×ˆ¥Çüÿÿÿÿ
+Wjavascript:S1854‰":Remove this useless assignment to variable "current_time".(–ûù…
+Bjavascript:S2814Ô"%'shipping_method' is already defined.(Ó–áà
+Bjavascript:S2814Ñ"%'shipping_method' is already defined.(å‹¬ 
+Ajavascript:S2814Å"'hour_time' is already defined.(ì‘£Øşÿÿÿÿ
+}javascript:S3923¾"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ş¹—äüÿÿÿÿ
+Qjavascript:S2814Ø"/'time_slot_field_mandatory' is already defined.(Í‡œùÿÿÿÿÿ
+kjavascript:S1871 "NThis branch's code block is the same as the block for the branch on line 2330.(å¥‡
+>javascript:S2814…"!'current_day' is already defined.(çò•Â
+Pjavascript:S1854Ô"3Remove this useless assignment to variable "today".(ì—ÿ·
+ajavascript:S2259î"ETypeError can be thrown as "tp_inst" might be null or undefined here.(À¦¼h
+Qjavascript:S1854›"/Remove this useless assignment to variable "j".(áéÃ²øÿÿÿÿ
+Kjavascript:S2814²".'is_added_as_specifc_date' is already defined.(ôŸÖÍ
+\javascript:S1481¥":Remove the declaration of the unused 'currentdt' variable.(…ì¹ıÿÿÿÿ
+Jjavascript:S2814Â"('split_current_date' is already defined.(¬îàÒıÿÿÿÿ
+Ajavascript:S2814ã"'hour_time' is already defined.(ÓĞÂßıÿÿÿÿ
+Xjavascript:S1481“";Remove the declaration of the unused 'bookedDays' variable.(åñâç
+=javascript:S2814ú" 'split_date' is already defined.(²µå˜
+gjavascript:S1871ˆ	"JThis case's code block is the same as the block for the case on line 1150.(ñÊÖ©
+^javascript:S1854"<Remove this useless assignment to variable "specific_dates".(»è—Œÿÿÿÿÿ
+Ejavascript:S2814Æ"('shipping_method_id' is already defined.(„åøÒ
+=javascript:S2814›" 'delay_days' is already defined.(ˆ¹Õ
+djavascript:S2259ñ"GTypeError can be thrown as "new_l_end" might be null or undefined here.(Ó¡Ø
+Tjavascript:S1854½"2Remove this useless assignment to variable "prev".(šŠÈ–şÿÿÿÿ
+8javascript:S2814à"'split' is already defined.(õÜğ
+=javascript:S2814á" 'delay_days' is already defined.(ËÆÊ
+=javascript:S2814¨" 'delay_days' is already defined.(ˆ¹Õ
+Zjavascript:S1481¹">Remove the declaration of the unused 'shipping_date' variable.(—”
+Bjavascript:S2814à" 'split_date' is already defined.(¤Úşÿÿÿÿ
+Sjavascript:S1481¨"6Remove the declaration of the unused 'today' variable.(ì—ÿ·
+Tjavascript:S1481©"2Remove the declaration of the unused 'w' variable.(€´Ê«úÿÿÿÿ
+Gjavascript:S2814Ô"%'shipping_method' is already defined.(ÑÌƒışÿÿÿÿ
+ljavascript:S2259Ç"OTypeError can be thrown as "subscription_date" might be null or undefined here.(ğ‘±ã
+Wjavascript:S1854ğ":Remove this useless assignment to variable "current_time".(–ûù…
+>javascript:S2814Â"!'current_day' is already defined.(çò•Â
+\javascript:S1481™":Remove the declaration of the unused 'currentdt' variable.(…ì¹ıÿÿÿÿ
+Njavascript:S2814Ü",'orddd_time_field_label' is already defined.(òŠŒèùÿÿÿÿ
+‚javascript:S3579å"eMake "shipping_info" an object if it must have named properties; otherwise, use a numeric index here.(·€Æ‡
+Qjavascript:S1854©"/Remove this useless assignment to variable "w".(€´Ê«úÿÿÿÿ
+9javascript:S2814"'b' is already defined.(®­íŸøÿÿÿÿ
+Gjavascript:S2814Ø"%'shipping_method' is already defined.(ûÙê®şÿÿÿÿ
+Ajavascript:S2814¿"'hour_time' is already defined.(úèÔØüÿÿÿÿ
+Bjavascript:S2814¿" 'delay_days' is already defined.(»•«³ùÿÿÿÿ
+Djavascript:S2814Œ"('recurring_weekdays' is already defined.(‚èş
+
+Wjavascript:S1481½"5Remove the declaration of the unused 'prev' variable.(šŠÈ–şÿÿÿÿ
+:javascript:S2814„"'avd_obj' is already defined.(¬©¢ó
+Kjavascript:S2814ÿ")'orddd_between_range' is already defined.(†õ®”ÿÿÿÿÿ
+kjavascript:S1871‡"NThis branch's code block is the same as the block for the branch on line 3845.(ñÏÁ
+?javascript:S2814˜""'disabled_day' is already defined.(ùÇÆı
+Ajavascript:S2814Ç"'hour_time' is already defined.(ÓĞÂßıÿÿÿÿ
+Ljavascript:S2814Æ"*'date_field_mandatory' is already defined.(ÓÒÙüÿÿÿÿ
+Cjavascript:S2814À"&'availability_str' is already defined.(·—“ª
+_javascript:S1854Ú"BRemove this useless assignment to variable "disabled_common_days".(ÉÚ¿ƒ
+javascript:S2703î"_Add the "let", "const" or "var" keyword to this declaration of "day_check" to make it explicit.(Ê½üÔüÿÿÿÿ
+Ejavascript:S2814¬"#'deliveryDates' is already defined.(›­€–ûÿÿÿÿ
+;javascript:S2814ê"'location' is already defined.(Æ­¿„
+Yjavascript:S1854¥"7Remove this useless assignment to variable "currentdt".(…ì¹ıÿÿÿÿ
+Ijavascript:S2814æ"''clear_button_text' is already defined.(Á¢Í«şÿÿÿÿ
+Yjavascript:S1854ã"7Remove this useless assignment to variable "hour_time".(ÓĞÂßıÿÿÿÿ
+Ljavascript:S2814ü"*'current_day_to_check' is already defined.(ÙÎ‡êÿÿÿÿÿ

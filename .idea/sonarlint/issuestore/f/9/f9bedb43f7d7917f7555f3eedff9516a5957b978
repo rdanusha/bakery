@@ -1,0 +1,10 @@
+
+sphp:S101"_Rename class "ORDDD_View_Time_Slots_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ç†Š÷
+i	php:S3776v"TRefactor this function to reduce its Cognitive Complexity from 68 to the 15 allowed.(Œï…Û
+d	php:S1192("JDefine a constant instead of duplicating this literal "time_slot" 3 times.(Í‘š‰ýÿÿÿÿ
+n	php:S1192("TDefine a constant instead of duplicating this literal "order-delivery-date" 8 times.(Í‘š‰ýÿÿÿÿ
+H	php:S1481ƒ"2Remove this unused "$current_date" local variable.(àÏï¹
+H	php:S1481†"2Remove this unused "$lockout_time" local variable.(îðÜ—
+=	php:S1481‘"'Remove this unused "$k" local variable.(ÀÕü­
+E	php:S1481¨"*Remove this unused "$dkey" local variable.(–Î»½ùÿÿÿÿ
+@	php:S1481X",Remove this unused "$status" local variable.(›é¢

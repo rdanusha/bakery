@@ -1,0 +1,44 @@
+
+f	php:S1192œ"KDefine a constant instead of duplicating this literal "refund_tax" 3 times.(ğ„Ï¾şÿÿÿÿ
+g	php:S1192_"MDefine a constant instead of duplicating this literal "woocommerce" 19 times.(À¢Çÿıÿÿÿÿ
+j	php:S1192¹"ODefine a constant instead of duplicating this literal "_reduced_stock" 3 times.(­™®úÿÿÿÿ
+`php:S112’"FDefine and throw a dedicated exception instead of using a generic one.(÷¾õ¢øÿÿÿÿ
+`php:S112˜"FDefine and throw a dedicated exception instead of using a generic one.(”½´¬úÿÿÿÿ
+t	php:S1192ø"^Define a constant instead of duplicating this literal "wc_update_coupon_usage_counts" 5 times.(Ø°’ó
+d	php:S1192°"IDefine a constant instead of duplicating this literal "WC_Order" 4 times.(á•Â—øÿÿÿÿ
+?	php:S1125‹")Remove the literal "false" boolean value.(ëÎÌ¸
+`	php:S1192Õ"JDefine a constant instead of duplicating this literal "cancelled" 3 times.(÷şáÕ
+^	php:S1192õ"HDefine a constant instead of duplicating this literal "orderby" 4 times.(Æ»å¸
+o	php:S3776µ"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(¢‰Â¿ÿÿÿÿÿ
+b	php:S1192ñ"LDefine a constant instead of duplicating this literal "line_items" 11 times.(õ‘Âß
+\	php:S1192í"GDefine a constant instead of duplicating this literal "amount" 7 times.(öµ¨I
+`php:S112œ"FDefine and throw a dedicated exception instead of using a generic one.(ØµÜÖøÿÿÿÿ
+g	php:S1192_"MDefine a constant instead of duplicating this literal "Order status" 7 times.(À¢Çÿıÿÿÿÿ
+e	php:S1192|"KDefine a constant instead of duplicating this literal "processing" 3 times.(›‰üÿÿÿÿ
+>	php:S1125ô")Remove the literal "false" boolean value.(ñíÙ
+c	php:S1301ì"MReplace this "switch" statement with "if" statements to increase readability.(´ŞŞÕ
+[	php:S1192"FDefine a constant instead of duplicating this literal "limit" 3 times.(ª „
+[php:S112û"FDefine and throw a dedicated exception instead of using a generic one.(ŒŠ˜¾
+x	php:S1192Â"]Define a constant instead of duplicating this literal "wc_update_total_sales_counts" 3 times.(õ¶ÆÂşÿÿÿÿ
+a	php:S1192"GDefine a constant instead of duplicating this literal "status" 3 times.(À¿§üÿÿÿÿ
+`php:S112„"FDefine and throw a dedicated exception instead of using a generic one.(¥Ù™İıÿÿÿÿ
+~	php:S1192«"cDefine a constant instead of duplicating this literal "woocommerce_order_status_completed" 3 times.(ƒ¹«şÿÿÿÿ
+Zphp:S112…"FDefine and throw a dedicated exception instead of using a generic one.(Ş—´
+b	php:S1192:"MDefine a constant instead of duplicating this literal "date_created" 8 times.(òÌ¶Û
+	php:S1192¬"dDefine a constant instead of duplicating this literal "woocommerce_order_status_processing" 3 times.(ì‹³ıÿÿÿÿ
+j	php:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÚÚ¶©
+Zphp:S112"FDefine and throw a dedicated exception instead of using a generic one.(€º®l
+_	php:S1192ï"IDefine a constant instead of duplicating this literal "order_id" 5 times.(²œ¿Ó
+[	php:S11922"FDefine a constant instead of duplicating this literal "Y-m-d" 3 times.(³ŠÈò
+z	php:S1488“"_Immediately return this expression instead of assigning it to the temporary variable "$status".(Ï«· ÿÿÿÿÿ
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(–ıÑñıÿÿÿÿ
+l	php:S1192½"QDefine a constant instead of duplicating this literal "is_customer_note" 3 times.(äŒ¼Ûøÿÿÿÿ
+a	php:S11920"LDefine a constant instead of duplicating this literal "date_before" 3 times.(ê¬ÉÑ
+\	php:S1192¨"FDefine a constant instead of duplicating this literal "order" 4 times.(æÂí´
+|	php:S1192”"aDefine a constant instead of duplicating this literal "woocommerce_cancel_unpaid_orders" 3 times.(âŒßÆÿÿÿÿÿ
+_	php:S1192Á"IDefine a constant instead of duplicating this literal "increase" 4 times.(Ï¼
+e	php:S11924"KDefine a constant instead of duplicating this literal "date_after" 3 times.(º‰ç¨üÿÿÿÿ
+]	php:S1192Ò"GDefine a constant instead of duplicating this literal "orders" 3 times.(‘ï–
+Lphp:S131ì"7Add a "case default" clause to this "switch" statement.(´ŞŞÕ
+b	php:S1192î"GDefine a constant instead of duplicating this literal "reason" 4 times.(ÅÎÉ¥şÿÿÿÿ
+o	php:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(å‡şÿÿÿÿ

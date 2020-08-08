@@ -1,0 +1,12 @@
+
+i	php:S1192›"LDefine a constant instead of duplicating this literal "woocommerce" 5 times.(î£×ì8‘İíÓ¼.
+e	php:S1192k"IDefine a constant instead of duplicating this literal "max_date" 5 times.(ËùÂÅ8Í”¼Õ¼.
+y	php:S1488n"]Immediately return this expression instead of assigning it to the temporary variable "$html".(¸‚“8‚Î¹Õ¼.
+„	php:S1488"hImmediately return this expression instead of assigning it to the temporary variable "$customer_orders".(¯Ä™»8‘İíÓ¼.
+k	php:S1192­"IDefine a constant instead of duplicating this literal "required" 3 times.(è†ÿ“ûÿÿÿÿ8 ¼³Ô¼.
+q	php:S1192P"PDefine a constant instead of duplicating this literal "static_quantity" 6 times.(ş÷èÃûÿÿÿÿ8‘İíÓ¼.
+I	php:S1481."-Remove this unused "$item_id" local variable.(˜á²8‘İíÓ¼.
+b	php:S1192a"FDefine a constant instead of duplicating this literal "Y-m-d" 3 times.(ÖŠ“ï8‘İíÓ¼.
+p	php:S1192"ODefine a constant instead of duplicating this literal "delivery_date" 17 times.(ÀøÊ§ÿÿÿÿÿ8‘İíÓ¼.
+S	php:S1172ß"1Remove the unused function parameter "$checkout".(¬àëĞşÿÿÿÿ8‘İíÓ¼.
+i	php:S1192î"GDefine a constant instead of duplicating this literal "</div>" 3 times.(˜ñÄøÿÿÿÿ8…¼ŠÕ¼.

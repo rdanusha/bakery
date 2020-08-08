@@ -1,0 +1,69 @@
+
+F	php:S1481¨"0Remove this unused "$timestamps" local variable.(¨ñ³Ì
+t	php:S1192@"ZDefine a constant instead of duplicating this literal "orddd_time_slot_mandatory" 4 times.(¾Ù†Âıÿÿÿÿ
+I	php:S1481±"3Remove this unused "$delivery_date" local variable.(êè°„
+h Web:TableHeaderHasIdOrScopeCheckı";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÿ­îæ
+p	php:S3776«"URefactor this function to reduce its Cognitive Complexity from 463 to the 15 allowed.(°õ·Áüÿÿÿÿ
+¥php:S138«"ŠThis function "orddd_get_delivery_charges" has 300 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(°õ·Áüÿÿÿÿ
+p	php:S1192|"[Define a constant instead of duplicating this literal "orddd_enable_delivery_time" 4 times.(Á¶²²
+D	php:S1481˜".Remove this unused "$min_date" local variable.(ÀÃöØ
+t	php:S1192Ù"^Define a constant instead of duplicating this literal "orddd_add_delivery_date_fees" 12 times.(Êóüß
+y	php:S1192“"cDefine a constant instead of duplicating this literal "_orddd_shipping_multiple_addresss_" 5 times.(¤ò”Ó
+J	php:S1066ó"/Merge this if statement with the enclosing one.(ôøªÿÿÿÿÿ
+@	php:S1172â"*Remove the unused function parameter "$x".(Ã§öŞ
+^	php:S1192æ"IDefine a constant instead of duplicating this literal "contents" 3 times.(Ê’¨b
+^	php:S1192ì"HDefine a constant instead of duplicating this literal "><br />" 3 times.(ª•Î
+h	php:S1192à"RDefine a constant instead of duplicating this literal "custom_attributes" 3 times.(ÊÃÚò
+v	php:S1192‰"[Define a constant instead of duplicating this literal "orddd_enable_delivery_date" 5 times.(Ëª«¯şÿÿÿÿ
+v	php:S1192'"aDefine a constant instead of duplicating this literal "wc_ms_multiple_address_table_row" 3 times.(ëÈĞß
+y	php:S1192>"dDefine a constant instead of duplicating this literal "orddd_delivery_timeslot_field_label" 6 times.(ÛÙí…
+G	php:S1481¸"1Remove this unused "$notice_type" local variable.(ñË
+]	php:S1192o"KDefine a constant instead of duplicating this literal "product_id" 5 times.(Ô6
+E	php:S1066Ò"/Merge this if statement with the enclosing one.(‡‘İá
+\	php:S1192à"FDefine a constant instead of duplicating this literal "style" 3 times.(ÊÃÚò
+L	php:S1481y"2Remove this unused "$quantity_arr" local variable.(÷×Ÿÿÿÿÿÿ
+g Web:TableHeaderHasIdOrScopeCheckH";Add either an 'id' or a 'scope' attribute to this <th> tag.(È·‰ª
+E	php:S1066Ó"/Merge this if statement with the enclosing one.(şï†à
+u	php:S1192@"[Define a constant instead of duplicating this literal "orddd_date_field_mandatory" 4 times.(¾Ù†Âıÿÿÿÿ
+>	php:S1125"(Remove the literal "true" boolean value.(ô£Š²
+o	php:S3776§"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(£œ½Íøÿÿÿÿ
+a	php:S1192Ğ"KDefine a constant instead of duplicating this literal "/[A-Za-z]/" 6 times.(‡‘İá
+¹php:S138c"ŸThis function "orddd_shipping_multuple_delivery_date_table_row" has 267 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(°Ê®Âøÿÿÿÿ
+	php:S1192€"fDefine a constant instead of duplicating this literal "delivery_charges_label_orddd_weekday_" 3 times.(ìİ¥úÿÿÿÿ
+W	php:S1481l"=Remove this unused "$default_e_delivery_date" local variable.(€º§ùÿÿÿÿ
+k	php:S1192z"QDefine a constant instead of duplicating this literal "h_deliverydate_" 11 times.(â¡›’úÿÿÿÿ
+|php:S101"cRename class "orddd_shipping_multiple_address" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(„ÈÛšøÿÿÿÿ
+n	php:S3776c"TRefactor this function to reduce its Cognitive Complexity from 61 to the 15 allowed.(°Ê®Âøÿÿÿÿ
+?	php:S1172†"*Remove the unused function parameter "$x".(‚ğ‹
+l	php:S1192<"WDefine a constant instead of duplicating this literal "orddd_enable_time_slot" 4 times.(¹ëê 
+S	php:S1481"9Remove this unused "$time_settings_arr_1" local variable.(†ªúƒøÿÿÿÿ
+u	php:S1192ô"ZDefine a constant instead of duplicating this literal "Next Day Delivery Charges" 6 times.(µ¶„úÿÿÿÿ
+f	php:S1192}"QDefine a constant instead of duplicating this literal "e_deliverydate_" 13 times.(‚Ã¯Ö
+u	php:S1192>"`Define a constant instead of duplicating this literal "orddd_delivery_date_field_label" 7 times.(ÛÙí…
+Cphp:S108¹")Either remove or fill this block of code.(×ÖšĞûÿÿÿÿ
+K	php:S1481Â"0Remove this unused "$total_fees" local variable.(¾ûÇÿÿÿÿÿ
+}	php:S1192û"bDefine a constant instead of duplicating this literal "additional_charges_orddd_weekday_" 3 times.(Öªİüÿÿÿÿ
+i	php:S1192è"NDefine a constant instead of duplicating this literal "orddd_process" 6 times.(²¹İ–ûÿÿÿÿ
+C	php:S1125‹"(Remove the literal "true" boolean value.(à’ö¯ÿÿÿÿÿ
+]	php:S1192–"GDefine a constant instead of duplicating this literal "<br />" 4 times.(‹‹Ä×
+g Web:TableHeaderHasIdOrScopeCheck>";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÛÙí…
+E	php:S1066¬"/Merge this if statement with the enclosing one.(¸†ê÷
+m	php:S1192à"RDefine a constant instead of duplicating this literal "Delivery Charges" 20 times.(¹Ô«—şÿÿÿÿ
+E	php:S1481§"*Remove this unused "$dkey" local variable.(–Î»½ùÿÿÿÿ
+o	php:S3776•"TRefactor this function to reduce its Cognitive Complexity from 85 to the 15 allowed.(÷·Øƒûÿÿÿÿ
+Cphp:S108Æ")Either remove or fill this block of code.(×ÖšĞûÿÿÿÿ
+p	php:S1192Ô"ZDefine a constant instead of duplicating this literal "Same Day Delivery Charges" 6 times.(«¹Îä
+@	php:S1481"*Remove this unused "$user" local variable.(ÒˆÁ
+b	php:S1192÷"LDefine a constant instead of duplicating this literal "time_slot_" 17 times.(å¤´‹
+>php:S108¹")Either remove or fill this block of code.(âÔÕ«
+s	php:S1192m"YDefine a constant instead of duplicating this literal "wcms_item_delivery_dates" 8 times.(†âˆøÿÿÿÿ
+]	php:S1192ø"GDefine a constant instead of duplicating this literal "select" 3 times.(Éå—Ä
+K	php:S1481î"0Remove this unused "$time_slots" local variable.(ãºÕ¬úÿÿÿÿ
+D	php:S1066}"/Merge this if statement with the enclosing one.(‚Ã¯Ö
+l	php:S1192g"WDefine a constant instead of duplicating this literal "orddd_gmt_calculations" 4 times.(õŞí
+b	php:S1192@"HDefine a constant instead of duplicating this literal "checked" 8 times.(¾Ù†Âıÿÿÿÿ
+E	php:S1066ò"/Merge this if statement with the enclosing one.(‡‘İá
+j	php:S1192>"UDefine a constant instead of duplicating this literal "order-delivery-date" 14 times.(ÛÙí…
+@	php:S1481ˆ"*Remove this unused "$user" local variable.(ÒˆÁ
+h	php:S1192¯"RDefine a constant instead of duplicating this literal "Time slot Charges" 6 times.(ˆí¹õ
+T	php:S1481À"9Remove this unused "$time_settings_arr_1" local variable.(†ªúƒøÿÿÿÿ

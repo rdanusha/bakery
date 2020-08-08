@@ -1,0 +1,6 @@
+.pum-container button[type="button"] {
+    display: none !important;
+}
+#e_deliverydate_field{
+    display: none !important;
+}

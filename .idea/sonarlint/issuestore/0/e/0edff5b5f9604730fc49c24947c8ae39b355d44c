@@ -1,0 +1,81 @@
+
+_	php:S1192&"JDefine a constant instead of duplicating this literal "timestamp" 3 times.(‹é¼«
+>php:S108¾")Either remove or fill this block of code.(¿şË™
+i	php:S1192Ö"SDefine a constant instead of duplicating this literal "billing_first_name" 9 times.(´ßÎ»
+<	php:S1110ó"!Remove these useless parentheses.(§‹±æûÿÿÿÿ
+i	php:S1192Ù"SDefine a constant instead of duplicating this literal "shipping_last_name" 8 times.(æÁ‚†
+j	php:S1192B"PDefine a constant instead of duplicating this literal "gcal_import_now" 3 times.(ş³÷åûÿÿÿÿ
+D	php:S1125")Remove the literal "false" boolean value.(ºÁ¨ƒùÿÿÿÿ
+g	php:S1192‚"QDefine a constant instead of duplicating this literal "PRODUCT_WITH_QTY" 6 times.(»Î±ô
+e	php:S1142é"OReduce the number of returns of this function 4, down to the maximum allowed 3.(¨·Ûß
+o	php:S1192Æ"YDefine a constant instead of duplicating this literal "orddd_calendar_details_1" 3 times.(£÷Âà
+d	php:S1192"IDefine a constant instead of duplicating this literal "PRODUCTS" 6 times.(‘Â¸øùÿÿÿÿ
+?	php:S1481ğ")Remove this unused "$key" local variable.(Œ‚Ç
+n	php:S1192Ö"SDefine a constant instead of duplicating this literal "shipping_address_1" 6 times.(§ÊÌ‚úÿÿÿÿ
+N	php:S1481×"3Remove this unused "$shipping_city" local variable.(öï¥¦úÿÿÿÿ
+b	php:S1192ã"MDefine a constant instead of duplicating this literal "ADDRESS_SHIP" 3 times.(©’È
+]	php:S1192û"GDefine a constant instead of duplicating this literal "+1 day" 3 times.(İ¡ò½
+d	php:S1192Œ"ODefine a constant instead of duplicating this literal "h_deliverydate" 3 times.(—±ş
+b	php:S1192ö"LDefine a constant instead of duplicating this literal "description" 3 times.(†‹Ë
+k	php:S1192ç"PDefine a constant instead of duplicating this literal "ORDER_DATE_TIME" 7 times.(Üéè‚øÿÿÿÿ
+f	php:S1192è"PDefine a constant instead of duplicating this literal "PICKUP_LOCATION" 3 times.(Ãêä­
+g	php:S1192b"RDefine a constant instead of duplicating this literal "gcal_api_pre_test" 3 times.(·ß€¦
+a	php:S1192Œ"FDefine a constant instead of duplicating this literal "EMAIL" 6 times.(à’íÎıÿÿÿÿ
+h	php:S1192ä"MDefine a constant instead of duplicating this literal "FULL_ADDRESS" 9 times.(»œşàúÿÿÿÿ
+i	php:S3776r"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(®íßÕ
+N	php:S1481Ó"8Remove this unused "$shipping_last_name" local variable.(Àç£€
+^	php:S1854¿"CRemove this useless assignment to local variable '$client_address'.(Çßó­ùÿÿÿÿ
+`	php:S1192¥"JDefine a constant instead of duplicating this literal "index.php" 4 times.(ÖöÈã
+@	php:S1481s"+Remove this unused "$error" local variable.(Ğ¾îï
+Ÿphp:S138©"„This function "set_event_parameters" has 230 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÌÆÚÉşÿÿÿÿ
+\	php:S1192ë"FDefine a constant instead of duplicating this literal "<br/>" 6 times.(áÑ¤º
+j	php:S1192ş"ODefine a constant instead of duplicating this literal "Y-m-d\TH:i:s\Z" 4 times.( êûÿÿÿÿÿ
+o	php:S1192Ø"TDefine a constant instead of duplicating this literal "shipping_first_name" 8 times.(ôğœ—úÿÿÿÿ
+p	php:S3776Ï"URefactor this function to reduce its Cognitive Complexity from 281 to the 15 allowed.(‚û²§ÿÿÿÿÿ
+i	php:S1192Û"NDefine a constant instead of duplicating this literal "shipping_city" 8 times.(ÖÚÕüÿÿÿÿ
+f	php:S1192—	"KDefine a constant instead of duplicating this literal "Ymd\THis\Z" 4 times.(Ö¸Ã·øÿÿÿÿ
+j	php:S1142Š"OReduce the number of returns of this function 8, down to the maximum allowed 3.(ÀîŒáûÿÿÿÿ
+i	php:S1192×"SDefine a constant instead of duplicating this literal "shipping_address_2" 6 times.( Ò°’
+j	php:S1192Ô"ODefine a constant instead of duplicating this literal "orddd_uploads/" 3 times.(êÜÊ®ıÿÿÿÿ
+b	php:S1192€"GDefine a constant instead of duplicating this literal "CLIENT" 6 times.(ğÒùúÿÿÿÿ
+c	php:S1192A"NDefine a constant instead of duplicating this literal "gcal_api_test" 5 times.(¾›
+N	php:S1481Ö"8Remove this unused "$shipping_address_2" local variable.(ïüôÃ
+g	php:S1192¶"QDefine a constant instead of duplicating this literal "_orddd_timestamp" 3 times.(Ù×À
+g	php:S1192İ"RDefine a constant instead of duplicating this literal "billing_address_1" 9 times.(÷ä’
+v	php:S1192Õ"`Define a constant instead of duplicating this literal "woocommerce_ship_to_destination" 3 times.(Çò¬¹
+f	php:S1192…"KDefine a constant instead of duplicating this literal "ORDER_DATE" 6 times.(´¤²óøÿÿÿÿ
+j	php:S1192}"UDefine a constant instead of duplicating this literal "order-delivery-date" 15 times.(ñŞÈ²
+T	php:S1481Ò"9Remove this unused "$shipping_first_name" local variable.(Û£®½øÿÿÿÿ
+O	php:S1481Ø"4Remove this unused "$shipping_state" local variable.(ÉÒ„³úÿÿÿÿ
+E	php:S1481"/Remove this unused "$attendees" local variable.(ñ…ö
+e	php:S1192ÿ"JDefine a constant instead of duplicating this literal "SITE_NAME" 6 times.(ÉÑµ×ıÿÿÿÿ
+M	php:S1481½"2Remove this unused "$deletedEvent" local variable.(ƒÚ‹õÿÿÿÿÿ
+\	php:S1192ˆ"FDefine a constant instead of duplicating this literal "PHONE" 6 times.(ˆ±ë
+B	php:S1481¯"-Remove this unused "$item_id" local variable.(éà_
+–php:S138Ï"|This function "insert_event" has 358 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(‚û²§ÿÿÿÿÿ
+x	php:S1192¿"]Define a constant instead of duplicating this literal "orddd_time_settings_selected" 3 times.(±Îû­üÿÿÿÿ
+@	php:S1481ú"*Remove this unused "$mkey" local variable.(šÛüƒ
+\	php:S1192ë"FDefine a constant instead of duplicating this literal ",\r\n" 5 times.(áÑ¤º
+S	php:S1481Õ"8Remove this unused "$shipping_address_1" local variable.(†§ûÿÿÿÿ
+M	php:S1481Ù"7Remove this unused "$shipping_postcode" local variable.(¯û•©
+h	php:S1192å"MDefine a constant instead of duplicating this literal "billing_city" 9 times.(öØÂ«ùÿÿÿÿ
+h	php:S1192Ö"RDefine a constant instead of duplicating this literal "billing_last_name" 9 times.(´ßÎ»
+e	php:S1192¨"JDefine a constant instead of duplicating this literal "time_slot" 6 times.(âãê¢ùÿÿÿÿ
+h	php:S1192†"MDefine a constant instead of duplicating this literal "ORDER_NUMBER" 6 times.(¡¬”Úıÿÿÿÿ
+p	php:S1192´"UDefine a constant instead of duplicating this literal "orddd_event_uids_ids" 3 times.(Ü”òüÿÿÿÿ
+h	php:S1192à"RDefine a constant instead of duplicating this literal "billing_address_2" 7 times.(³ö¾¸
+t	php:S1192ß"^Define a constant instead of duplicating this literal "orddd_calendar_event_location" 6 times.(ßøüÙ
+^	php:S1192å"HDefine a constant instead of duplicating this literal "ADDRESS" 9 times.(š£À›
+a	php:S1192‡"FDefine a constant instead of duplicating this literal "PRICE" 6 times.(ä×Å¦üÿÿÿÿ
+m	php:S1192â"RDefine a constant instead of duplicating this literal "FULL_ADDRESS_SHIP" 3 times.(±³òÆıÿÿÿÿ
+`	php:S1192®"JDefine a constant instead of duplicating this literal "gcal/key/" 5 times.(Ã¤ÌÍ
+o	php:S1192_"UDefine a constant instead of duplicating this literal "gcal_api_test_result" 4 times.(Ü°–óÿÿÿÿÿ
+J	php:S1066¶"/Merge this if statement with the enclosing one.(æş¥èúÿÿÿÿ
+b	php:S1192¸"LDefine a constant instead of duplicating this literal "Y-m-d H:i:s" 5 times.(ŸÏ“
+z	php:S1448"eClass "OrdddGcal" has 23 methods, which is greater than 20 authorized. Split it into smaller classes.(‚…ñ”
+h	php:S1192ó"MDefine a constant instead of duplicating this literal "variation_id" 3 times.(äíüûÿÿÿÿ
+Q	php:S1481Ô"6Remove this unused "$shipping_company" local variable.(‰„ó½øÿÿÿÿ
+l	php:S1192""WDefine a constant instead of duplicating this literal "orddd_gmt_calculations" 6 times.(õŞí
+a	php:S11927"GDefine a constant instead of duplicating this literal "Y-m-d" 13 times.(àúÉöûÿÿÿÿ
+o	php:S3776©"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(ÌÆÚÉşÿÿÿÿ
+7	php:S1110"!Remove these useless parentheses.(ƒò™Ş

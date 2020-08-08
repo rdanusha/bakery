@@ -1,0 +1,9 @@
+
+pphp:S101"WRename class "orddd_ts_deactivate" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ä£ª®ÿÿÿÿÿ
+r	php:S1192L"XDefine a constant instead of duplicating this literal "ts-deactivation-survey" 14 times.(òÕúÎøÿÿÿÿ
+`	php:S1192?"KDefine a constant instead of duplicating this literal "deactivate" 3 times.(ù²ïë
+g	php:S1192Ï"LDefine a constant instead of duplicating this literal "reason_info" 3 times.(ãöİ›şÿÿÿÿ
+^	php:S1192{"KDefine a constant instead of duplicating this literal "input_type" 6 times.(©ºa
+g	php:S1192|"RDefine a constant instead of duplicating this literal "input_placeholder" 6 times.(õÆ“ñ
+]	php:S1192{"JDefine a constant instead of duplicating this literal "textfield" 4 times.(©ºa
+`	php:S1192Æ"JDefine a constant instead of duplicating this literal "reason_id" 3 times.(¹ø

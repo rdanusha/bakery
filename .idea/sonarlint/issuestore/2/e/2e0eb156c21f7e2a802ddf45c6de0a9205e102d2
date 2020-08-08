@@ -1,0 +1,29 @@
+
+|	php:S1192‘"aDefine a constant instead of duplicating this literal "<option value='%s'>%s</option>\n" 4 times.(ñøòÍøÿÿÿÿ
+iphp:S127›"ORefactor the code to avoid updating the loop counter "$i" within the loop body.(¼À†Ãùÿÿÿÿ
+b	php:S1192$"HDefine a constant instead of duplicating this literal "checked" 9 times.(¥òî½úÿÿÿÿ
+|	php:S1488§"fImmediately return this expression instead of assigning it to the temporary variable "$timeslot_jarr".(Í™˜å
+i	php:S1192w"ODefine a constant instead of duplicating this literal "specific_dates" 3 times.(Ù˜‡³øÿÿÿÿ
+M	php:S1481Ç"2Remove this unused "$weekdays_arr" local variable.(â©êŸúÿÿÿÿ
+^	php:S1192t"IDefine a constant instead of duplicating this literal "weekdays" 3 times.(îÆ’í
+H	php:S1481"-Remove this unused "$checked" local variable.(íˆşÕÿÿÿÿÿ
+=	php:S1481„"'Remove this unused "$k" local variable.(„ş”™
+o	php:S3776µ"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(®„œÅùÿÿÿÿ
+M	php:S1481µ"7Remove this unused "$delivery_to_hours" local variable.(¡Å¸
+T	php:S1481´"9Remove this unused "$delivery_from_hours" local variable.(éŸµƒúÿÿÿÿ
+¬php:S138ñ"‘This function "orddd_delivery_time_slot_callback" has 163 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(½Ò’Óÿÿÿÿÿ
+x	php:S1192“"]Define a constant instead of duplicating this literal "orddd_time_slot_for_weekdays" 6 times.(ÙÖ‘›ùÿÿÿÿ
+w	php:S1192“"\Define a constant instead of duplicating this literal "orddd_select_delivery_dates" 5 times.(ÙÖ‘›ùÿÿÿÿ
+o	php:S1192“"TDefine a constant instead of duplicating this literal "orddd_time_to_hours" 4 times.(ÙÖ‘›ùÿÿÿÿ
+T	php:S1481"9Remove this unused "$delivery_from_hours" local variable.(éŸµƒúÿÿÿÿ
+uphp:S101"\Rename class "Orddd_Time_Slot_Settings" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ìâ‰¶øÿÿÿÿ
+J	php:S1066˜"/Merge this if statement with the enclosing one.(Ğ¡£ÿıÿÿÿÿ
+~	php:S1192–"hDefine a constant instead of duplicating this literal "</select>
+                <label>&nbsp;" 4 times.(Óâ®­
+p	php:S3776ñ"URefactor this function to reduce its Cognitive Complexity from 105 to the 15 allowed.(½Ò’Óÿÿÿÿÿ
+q	php:S1192“"VDefine a constant instead of duplicating this literal "orddd_time_from_hours" 4 times.(ÙÖ‘›ùÿÿÿÿ
+iphp:S127Â"ORefactor the code to avoid updating the loop counter "$i" within the loop body.(¼À†Ãùÿÿÿÿ
+=	php:S1481ù"(Remove this unused "$id" local variable.(ˆ‰‘
+w	php:S1192t"bDefine a constant instead of duplicating this literal "orddd_time_slot_for_delivery_days" 4 times.(îÆ’í
+M	php:S1481"7Remove this unused "$delivery_to_hours" local variable.(¡Å¸
+i	php:S1192}"TDefine a constant instead of duplicating this literal "order-delivery-date" 6 times.(ŠÅç

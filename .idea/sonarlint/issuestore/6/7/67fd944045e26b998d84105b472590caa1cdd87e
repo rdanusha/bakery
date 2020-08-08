@@ -1,0 +1,51 @@
+
+l	php:S1192´"QDefine a constant instead of duplicating this literal "is_customer_note" 3 times.(¨êıÿÿÿÿ
+j	php:S1192L"UDefine a constant instead of duplicating this literal "payment_method_title" 4 times.(êà­´
+	php:S1448"eClass "WC_Order" has 126 methods, which is greater than 20 authorized. Split it into smaller classes.(»ªóúùÿÿÿÿ
+j	php:S3776š"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(çÆ©ò
+b	php:S1192"GDefine a constant instead of duplicating this literal "orders" 4 times.(™•Ôÿÿÿÿÿ
+i	php:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.( –¦
+U	php:S1788Ú"?Move arguments "$address" after arguments without default value(§õ–•
+a	php:S1192ˆ"FDefine a constant instead of duplicating this literal "order" 6 times.(ËŒ’ñÿÿÿÿÿ
+_	php:S1192v"JDefine a constant instead of duplicating this literal "completed" 6 times.(‚®ó€
+D	php:S1125ˆ")Remove the literal "false" boolean value.(¥õäãøÿÿÿÿ
+_	php:S1192@"JDefine a constant instead of duplicating this literal "shipping" 23 times.(ÍØÎ€
+b	php:S1192 "LDefine a constant instead of duplicating this literal "WooCommerce" 3 times.(Ş‹è
+e	php:S11924"KDefine a constant instead of duplicating this literal "first_name" 7 times.(¸‘Æàûÿÿÿÿ
+a	php:S1192P"LDefine a constant instead of duplicating this literal "created_via" 3 times.(²äş°
+_	php:S11925"JDefine a constant instead of duplicating this literal "last_name" 7 times.(»ƒ«Ğ
+d	php:S11928"JDefine a constant instead of duplicating this literal "address_2" 6 times.(µ‰‡“şÿÿÿÿ
+a	php:S1192o"GDefine a constant instead of duplicating this literal "failed" 3 times.(ô±Ô¶ûÿÿÿÿ
+[	php:S1192‰"FDefine a constant instead of duplicating this literal "error" 4 times.(åÊÊ
+`	php:S1192v"KDefine a constant instead of duplicating this literal "processing" 5 times.(‚®ó€
+n	php:S1192N"TDefine a constant instead of duplicating this literal "customer_ip_address" 3 times.(ëíñùÿÿÿÿ
+n	php:S1192O"TDefine a constant instead of duplicating this literal "customer_user_agent" 3 times.(èÜ‰ªıÿÿÿÿ
+]	php:S1192<"HDefine a constant instead of duplicating this literal "country" 6 times.(×’ÚÀ
+`	php:S1192:"FDefine a constant instead of duplicating this literal "state" 6 times.(òÊÔâúÿÿÿÿ
+d	php:S1192Ä"IDefine a constant instead of duplicating this literal "order_id" 5 times.(Ñõ¢áùÿÿÿÿ
+Z	php:S1192="FDefine a constant instead of duplicating this literal "email" 3 times.(Èø‘$
+[	php:S1192>"FDefine a constant instead of duplicating this literal "phone" 3 times.(×¿Œç
+i	php:S1192K"ODefine a constant instead of duplicating this literal "payment_method" 5 times.(¸”“¥øÿÿÿÿ
+]	php:S1192;"IDefine a constant instead of duplicating this literal "postcode" 6 times.(è–¥'
+]	php:S11926"HDefine a constant instead of duplicating this literal "company" 7 times.(í†ÕŸ
+c	php:S1192Œ"MDefine a constant instead of duplicating this literal "woocommerce" 13 times.(™–¼˜
+h	php:S1192Q"NDefine a constant instead of duplicating this literal "customer_note" 6 times.(ˆÀâØıÿÿÿÿ
+`	php:S1192¾"JDefine a constant instead of duplicating this literal "line_item" 9 times.(÷õ¥ñ
+h	php:S1871©"MThis branch's code block is the same as the block for the branch on line 293.(©êµÿÿÿÿÿ
+p	php:S1117ä"URename "$status_transition" which has the same name as the field declared at line 23.(Éëœøÿÿÿÿ
+c	php:S11923"IDefine a constant instead of duplicating this literal "billing" 28 times.(™áşÇúÿÿÿÿ
+d	php:S11922"JDefine a constant instead of duplicating this literal "order_key" 4 times.(ÿ”œ¤ıÿÿÿÿ
+	php:S1192v"jDefine a constant instead of duplicating this literal "woocommerce_payment_complete_order_status" 3 times.(‚®ó€
+m	php:S1192Š"RDefine a constant instead of duplicating this literal "_refunded_item_id" 3 times.(Òß˜€şÿÿÿÿ
+d	php:S1192S"JDefine a constant instead of duplicating this literal "date_paid" 3 times.(»å¸‡ûÿÿÿÿ
+b	php:S1192o"HDefine a constant instead of duplicating this literal "pending" 4 times.(ô±Ô¶ûÿÿÿÿ
+j	php:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¬µÕ
+i	php:S1192M"ODefine a constant instead of duplicating this literal "transaction_id" 3 times.(è÷ò¶úÿÿÿÿ
+c	php:S1192#"IDefine a constant instead of duplicating this literal "currency" 6 times.(¤‰âÀûÿÿÿÿ
+f	php:S11921"LDefine a constant instead of duplicating this literal "customer_id" 3 times.(Æ÷å£úÿÿÿÿ
+_	php:S11927"JDefine a constant instead of duplicating this literal "address_1" 6 times.(¤½õ
+`	php:S1192-"FDefine a constant instead of duplicating this literal "total" 3 times.(–ıÜÏüÿÿÿÿ
+i	php:S1192R"ODefine a constant instead of duplicating this literal "date_completed" 3 times.(ÿ•éƒùÿÿÿÿ
+_	php:S1192T"JDefine a constant instead of duplicating this literal "cart_hash" 3 times.(·Äû
+E	php:S1481¦"*Remove this unused "$code" local variable.(ÌèÜüÿÿÿÿ
+ephp:S101"LRename class "WC_Order" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(»ªóúùÿÿÿÿ

@@ -1,0 +1,130 @@
+
+_	php:S3358¡"DExtract this nested ternary operation into an independent statement.(Ú‹³úÿÿÿÿ
+J	php:S1135¯"4Complete the task associated to this "TODO" comment.(£Ò´
+O	php:S1135É"4Complete the task associated to this "TODO" comment.(Ä§‡ùÿÿÿÿ
+J	php:S1135å"4Complete the task associated to this "TODO" comment.(£Ò´
+D	php:S1172×".Remove the unused function parameter "$class".(ü·õû
+O	php:S1172¨
+"4Remove the unused function parameter "$deprecated1".(—±¥ıÿÿÿÿ
+O	php:S1172¨
+"4Remove the unused function parameter "$deprecated2".(—±¥ıÿÿÿÿ
+N	php:S1172¤"3Remove the unused function parameter "$deprecated".(ü·„Âıÿÿÿÿ
+h	php:S1301"MReplace this "switch" statement with "if" statements to increase readability.(Æâïêÿÿÿÿÿ
+h	php:S1301ª"MReplace this "switch" statement with "if" statements to increase readability.(Æâïêÿÿÿÿÿ
+n	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ñ‹µôúÿÿÿÿ
+j	php:S3776º"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(Ö¸¡›
+j	php:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Æ˜®ò
+j	php:S3776¡"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(´¾££
+j	php:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 79 to the 15 allowed.(™ğ„Ò
+o	php:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ó·µÏøÿÿÿÿ
+j	php:S3776·"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ƒúŸ
+o	php:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(¢ÿä•øÿÿÿÿ
+o	php:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ØóÆÌüÿÿÿÿ
+”	php:S4144£	"~Update this method so that its implementation is not identical to "woocommerce_template_loop_product_link_close" on line 1167.(ùèáÅ
+r	php:S1192Ş"\Define a constant instead of duplicating this literal "woocommerce_catalog_columns" 4 times.(´úïÆ
+b	php:S1192p"HDefine a constant instead of duplicating this literal "wp_head" 3 times.(ÛÀ´Áúÿÿÿÿ
+e	php:S1192$"PDefine a constant instead of duplicating this literal "customer-logout" 7 times.(èµˆ¨
+d	php:S1192Â"IDefine a constant instead of duplicating this literal "</label>" 3 times.(ä®ÿÿÿÿÿ
+_	php:S1192Û
+"IDefine a constant instead of duplicating this literal "orderby" 11 times.(íïîø
+]	php:S1192„"GDefine a constant instead of duplicating this literal "after" 10 times.(õ•›É
+e	php:S1192’"JDefine a constant instead of duplicating this literal "</option>" 8 times.(è”åíıÿÿÿÿ
+e	php:S1192¶"ODefine a constant instead of duplicating this literal "posts_per_page" 9 times.(¯°ÓÊ
+b	php:S1192¦"LDefine a constant instead of duplicating this literal "is_filtered" 3 times.(è½®–
+}	php:S1192¬"bDefine a constant instead of duplicating this literal "woocommerce_variation_option_name" 3 times.(Æ©ïÿÿÿÿÿ
+\	php:S1192Å"FDefine a constant instead of duplicating this literal "title" 4 times.(ÙË±¯
+]	php:S1192Û	"GDefine a constant instead of duplicating this literal "class" 10 times.(£¤•Ú
+l	php:S1192İ"QDefine a constant instead of duplicating this literal "Choose an option" 3 times.(ËÁ’•ùÿÿÿÿ
+_	php:S1192·"IDefine a constant instead of duplicating this literal "" name="" 5 times.(¯İè
+h	php:S1192ß"MDefine a constant instead of duplicating this literal "product_grid" 3 times.(ìÕš…úÿÿÿÿ
+]	php:S1192"GDefine a constant instead of duplicating this literal "" id="" 9 times.(“­õ‹
+a	php:S1192¼"FDefine a constant instead of duplicating this literal "label" 7 times.(•ö‡øÿÿÿÿ
+e	php:S1192"JDefine a constant instead of duplicating this literal "max_value" 7 times.(å–‡îıÿÿÿÿ
+e	php:S1192˜"JDefine a constant instead of duplicating this literal "variation" 4 times.(Éû¶õûÿÿÿÿ
+a	php:S1192Ö"KDefine a constant instead of duplicating this literal "post_class" 4 times.(¬Âò®
+d	php:S1192®"IDefine a constant instead of duplicating this literal "wp_query" 6 times.(âôéıÿÿÿÿ
+\	php:S1192û"FDefine a constant instead of duplicating this literal "order" 7 times.(ƒÀÌ­
+_	php:S1192©"IDefine a constant instead of duplicating this literal "per_page" 4 times.(ø ›©
+i	php:S1192æ"NDefine a constant instead of duplicating this literal "sent_to_admin" 5 times.(¿…àíûÿÿÿÿ
+_	php:S1192ô"IDefine a constant instead of duplicating this literal "products" 6 times.(çúçæ
+^	php:S1192"IDefine a constant instead of duplicating this literal "product" 27 times.(¢‚•ö
+m	php:S1192"RDefine a constant instead of duplicating this literal "product_variation" 3 times.(ê® Äøÿÿÿÿ
+a	php:S1192Š"KDefine a constant instead of duplicating this literal "attribute_" 4 times.(ãª¯ğ
+e	php:S1192"JDefine a constant instead of duplicating this literal "min_value" 5 times.(­œŒáÿÿÿÿÿ
+f	php:S1192æ	"KDefine a constant instead of duplicating this literal "attributes" 6 times.(¨ìèÇúÿÿÿÿ
+c	php:S1192Å"MDefine a constant instead of duplicating this literal "input_class" 12 times.(ÖõäÊ
+_	php:S1192€"IDefine a constant instead of duplicating this literal "selected" 8 times.(Ä¹¥¸
+`	php:S1192“"JDefine a constant instead of duplicating this literal "separator" 4 times.(èÏ¿ö
+e	php:S1192è"JDefine a constant instead of duplicating this literal "" value="" 4 times.(¾¨†Ğıÿÿÿÿ
+c	php:S1192ß"NDefine a constant instead of duplicating this literal "subcategories" 8 times.(ÛÎı`
+j	php:S1192’"ODefine a constant instead of duplicating this literal "<select name="" 3 times.(è”åíıÿÿÿÿ
+a	php:S1192§"FDefine a constant instead of duplicating this literal "total" 8 times.(–ıÜÏüÿÿÿÿ
+l	php:S1192½"QDefine a constant instead of duplicating this literal "woocommerce_loop" 9 times.(·âùÿÿÿÿ
+e	php:S1192‰"JDefine a constant instead of duplicating this literal "<a href="" 7 times.(¡ÉÏµüÿÿÿÿ
+a	php:S1192·"FDefine a constant instead of duplicating this literal "paged" 5 times.(€ÍÓÃşÿÿÿÿ
+h	php:S1192Á"MDefine a constant instead of duplicating this literal "autocomplete" 4 times.(—…ƒªùÿÿÿÿ
+_	php:S1192Ğ"IDefine a constant instead of duplicating this literal "callback" 3 times.(‹¡ÌŠ
+c	php:S1192"HDefine a constant instead of duplicating this literal "</span>" 4 times.(ºã¾‹ûÿÿÿÿ
+c	php:S1192ª"MDefine a constant instead of duplicating this literal "current_page" 6 times.(‡Âù
+]	php:S1192¸"GDefine a constant instead of duplicating this literal "height" 3 times.(•½äó
+e	php:S1192¿"JDefine a constant instead of duplicating this literal "maxlength" 4 times.(°Ò•üøÿÿÿÿ
+k	php:S1192•"PDefine a constant instead of duplicating this literal "<option value="" 5 times.(ƒ™ªùüÿÿÿÿ
+c	php:S1192Ë"MDefine a constant instead of duplicating this literal "availability" 4 times.(„¹ö
+g	php:S1192K"RDefine a constant instead of duplicating this literal "template_redirect" 4 times.(ëÛå½
+l	php:S1192"QDefine a constant instead of duplicating this literal "related_products" 3 times.(°í”Çúÿÿÿÿ
+o	php:S1192û"YDefine a constant instead of duplicating this literal "woocommerce_catalog_rows" 4 times.(˜øƒ†
+e	php:S1192ş"JDefine a constant instead of duplicating this literal "attribute" 5 times.(¨îì‘øÿÿÿÿ
+d	php:S1192É"IDefine a constant instead of duplicating this literal "validate" 3 times.(òƒê«ûÿÿÿÿ
+f	php:S1192å"KDefine a constant instead of duplicating this literal "plain_text" 4 times.(¶·õùÿÿÿÿÿ
+f	php:S1192ä"KDefine a constant instead of duplicating this literal "image_size" 3 times.(ôâàÀøÿÿÿÿ
+l	php:S1192Ö"VDefine a constant instead of duplicating this literal "wc_product_post_class" 3 times.(¬Âò®
+l	php:S1192­"QDefine a constant instead of duplicating this literal "[privacy_policy]" 3 times.(ƒ¾Àïøÿÿÿÿ
+c	php:S1192‡"HDefine a constant instead of duplicating this literal "country" 3 times.(ãüø¿ûÿÿÿÿ
+a	php:S1192Í
+"KDefine a constant instead of duplicating this literal "menu_order" 5 times.(ƒèõÕ
+g	php:S1192Í"LDefine a constant instead of duplicating this literal "description" 5 times.(şôáèúÿÿÿÿ
+c	php:S1192”"MDefine a constant instead of duplicating this literal "placeholder" 11 times.(Æ¨‰¸
+_	php:S1192"JDefine a constant instead of duplicating this literal "checkout" 10 times.(Şì»
+|	php:S1192"aDefine a constant instead of duplicating this literal "wc_products_array_filter_visible" 3 times.(°í”Çúÿÿÿÿ
+b	php:S1192Ö"GDefine a constant instead of duplicating this literal "</div>" 9 times.(¸¡Şıÿÿÿÿ
+a	php:S1192é	"KDefine a constant instead of duplicating this literal "aria-label" 4 times.(îî‹Õ
+d	php:S1192â"IDefine a constant instead of duplicating this literal "show_sku" 3 times.(§•Áÿøÿÿÿÿ
+_	php:S1192À"IDefine a constant instead of duplicating this literal "required" 3 times.(”öğ¿
+i	php:S1192È"SDefine a constant instead of duplicating this literal "custom_attributes" 12 times.(È¥Ïè
+f	php:S1192ã"KDefine a constant instead of duplicating this literal "show_image" 3 times.(áãğ‚úÿÿÿÿ
+]	php:S1192Ç"HDefine a constant instead of duplicating this literal "options" 8 times.(¦¶½d
+e	php:S1192Ï"JDefine a constant instead of duplicating this literal "priority" 12 times.(ø»ößùÿÿÿÿ
+d	php:S1192¡"IDefine a constant instead of duplicating this literal "columns" 13 times.(ø··”ıÿÿÿÿ
+z	php:S1192Í
+"dDefine a constant instead of duplicating this literal "woocommerce_default_catalog_orderby" 4 times.(ƒèõÕ
+b	php:S1192Ä"LDefine a constant instead of duplicating this literal "label_class" 7 times.(†ÜùÄ
+l	php:S1192¡"QDefine a constant instead of duplicating this literal "woocommerce-cart" 3 times.(äğ©ıÿÿÿÿ
+d	php:S1192%"JDefine a constant instead of duplicating this literal "myaccount" 3 times.(§³†úÿÿÿÿ
+^	php:S1192ÿ"HDefine a constant instead of duplicating this literal "display" 4 times.(ÀàêÆ
+c	php:S1192£"MDefine a constant instead of duplicating this literal "is_shortcode" 3 times.(ø ‹Â
+b	php:S1192¨"LDefine a constant instead of duplicating this literal "total_pages" 3 times.(‹‘°ü
+\	php:S1192¸"FDefine a constant instead of duplicating this literal "width" 3 times.(•½äó
+c	php:S1192ƒ"HDefine a constant instead of duplicating this literal "before" 10 times.(ÆÚêĞùÿÿÿÿ
+`	php:S1192Œ"JDefine a constant instead of duplicating this literal "</strong>" 3 times.(¥…ñ
+b	php:S1192"MDefine a constant instead of duplicating this literal "woocommerce" 47 times.(ÏôÑ°
+b	php:S1192ì"LDefine a constant instead of duplicating this literal "product_cat" 6 times.(¿¢
+`	php:S1192˜"JDefine a constant instead of duplicating this literal "</select>" 3 times.(€é 
+e	php:S1192§"JDefine a constant instead of duplicating this literal "parent_id" 4 times.(›³Ê±øÿÿÿÿ
+l	php:S1192˜"QDefine a constant instead of duplicating this literal "woocommerce-page" 4 times.(ˆğëşÿÿÿÿ
+l	php:S1192„"QDefine a constant instead of duplicating this literal "show_option_none" 4 times.(†°Û¯üÿÿÿÿ
+\	php:S1192ÿ"FDefine a constant instead of duplicating this literal "value" 5 times.(ç’“µ
+j	php:S1192¼"ODefine a constant instead of duplicating this literal "wc_get_product" 4 times.(ğ¦±×ıÿÿÿÿ
+h	php:S1192¤"MDefine a constant instead of duplicating this literal "is_paginated" 4 times.(‹¦’Ëÿÿÿÿÿ
+e	php:S1192Ë"JDefine a constant instead of duplicating this literal "autofocus" 4 times.(šİ¯Êÿÿÿÿÿ
+e	php:S1192¥"JDefine a constant instead of duplicating this literal "is_search" 5 times.(·««Şüÿÿÿÿ
+O	php:S3801‡"4Refactor this function to use "return" consistently.(ò‡©‰ùÿÿÿÿ
+?	php:S1125‘")Remove the literal "false" boolean value.(ÅÛùÄ
+>	php:S1125Ü")Remove the literal "false" boolean value.(ªÔç
+D	php:S1125©")Remove the literal "false" boolean value.(ã©–Üüÿÿÿÿ
+D	php:S1125Ö")Remove the literal "false" boolean value.(º¬õ€úÿÿÿÿ
+D	php:S1125×")Remove the literal "false" boolean value.(ûÂŸöÿÿÿÿÿ
+C	php:S1481›"-Remove this unused "$meta_id" local variable.(ş¥¤¬
+œphp:S138¹"†This function "woocommerce_form_field" has 166 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(™ğ„Ò
+Qphp:S131"7Add a "case default" clause to this "switch" statement.(Æâïêÿÿÿÿÿ
+Qphp:S131ª"7Add a "case default" clause to this "switch" statement.(Æâïêÿÿÿÿÿ
+Qphp:S131†"7Add a "case default" clause to this "switch" statement.(ÒÜÂÙúÿÿÿÿ

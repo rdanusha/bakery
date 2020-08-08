@@ -1,0 +1,133 @@
+
+L	php:S1172ş"1Remove the unused function parameter "$taxonomy".(Å¶Ç»üÿÿÿÿ
+D	php:S1172•".Remove the unused function parameter "$tt_id".(Æçâ
+G	php:S1172•"1Remove the unused function parameter "$taxonomy".(Æçâ
+kphp:S101!"RRename class "orddd_settings" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ªä¬¬ÿÿÿÿÿ
+„	php:S1448!"jClass "orddd_settings" has 23 methods, which is greater than 20 authorized. Split it into smaller classes.(ªä¬¬ÿÿÿÿÿ
+o	php:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(›±‰şÿÿÿÿ
+p	php:S3776ß"URefactor this function to reduce its Cognitive Complexity from 262 to the 15 allowed.(Òúß‘úÿÿÿÿ
+o	php:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(³“»Âûÿÿÿÿ
+p	php:S1192="[Define a constant instead of duplicating this literal "orddd_appearance_settings" 41 times.(÷Ã—Ç
+©	php:S1192‘"Define a constant instead of duplicating this literal "<div id="content">
+                <form method="post" action="options.php">" 3 times.(øÙš™şÿÿÿÿ
+n	php:S1192±	"XDefine a constant instead of duplicating this literal "orddd_time_slot_section" 6 times.(Üî¿
+t	php:S1192¯"YDefine a constant instead of duplicating this literal "additional_charges_label" 4 times.(…Êúÿÿÿÿ
+j	php:S1192:"UDefine a constant instead of duplicating this literal "orddd_time_settings" 28 times.(…¢ì“
+t	php:S1192l"ZDefine a constant instead of duplicating this literal "orddd_date_settings_page" 16 times.(ö®Şàşÿÿÿÿ
+o	php:S1192õ"YDefine a constant instead of duplicating this literal "orddd_delivery_days_page" 6 times.(ÉÎÉÏ
+{	php:S1192’"eDefine a constant instead of duplicating this literal "orddd_integration_with_other_plugins" 5 times.(­À¿€
+v	php:S1192Å"`Define a constant instead of duplicating this literal "orddd_additional_settings_page" 18 times.(®–ãÿ
+g	php:S1192ş"QDefine a constant instead of duplicating this literal "general_settings" 7 times.(Òßª–
+i	php:S1192ñ"NDefine a constant instead of duplicating this literal "Save Settings" 9 times.(Ş‹“‹ıÿÿÿÿ
+i	php:S1192è"SDefine a constant instead of duplicating this literal "manage_woocommerce" 4 times.(›ş‚È
+q	php:S1192İ"[Define a constant instead of duplicating this literal "orddd_color_picker_section" 5 times.(¨õÄ’
+„	php:S1192ÿ"iDefine a constant instead of duplicating this literal "orddd_delivery_date_for_product_category" 7 times.(ŠÇØ«ÿÿÿÿÿ
+|	php:S1192ï"fDefine a constant instead of duplicating this literal "orddd_shipping_based_holidays_section" 6 times.(Ø±÷¯
+v	php:S1192à"`Define a constant instead of duplicating this literal "orddd_same_day_delivery_section" 4 times.(™å¶ø
+n	php:S1192;"YDefine a constant instead of duplicating this literal "orddd_holidays_settings" 12 times.(’º¹ß
+e	php:S1192Ó"ODefine a constant instead of duplicating this literal "orddd_weekdays" 9 times.(ÎğÕú
+w	php:S1192ò"\Define a constant instead of duplicating this literal "orddd_delivery_days_section" 5 times.(…„öúÿÿÿÿ
+f	php:S11920"LDefine a constant instead of duplicating this literal "admin_init" 12 times.(ŞÚ¼Áüÿÿÿÿ
+q	php:S1192´	"VDefine a constant instead of duplicating this literal "orddd_time_slot_page" 14 times.(ØËÔ¢øÿÿÿÿ
+b	php:S11923"HDefine a constant instead of duplicating this literal "action" 19 times.(¿Öº›ûÿÿÿÿ
+s	php:S1192>"^Define a constant instead of duplicating this literal "orddd_delivery_days_settings" 10 times.(ºöß˜
+q	php:S1192i"]Define a constant instead of duplicating this literal "orddd_date_settings_section" 12 times.(¯ìær
+b	php:S1192¾"GDefine a constant instead of duplicating this literal "row_id" 3 times.(µŒïäùÿÿÿÿ
+­	php:S1192í"‘Define a constant instead of duplicating this literal "<div id="content">
+                    <form method="post" action="options.php">" 6 times.(øÙš™şÿÿÿÿ
+y	php:S1192à"^Define a constant instead of duplicating this literal "orddd_calendar_sync_settings" 37 times.(¹ÁÜùÿÿÿÿ
+k	php:S1192è"UDefine a constant instead of duplicating this literal "order_delivery_date" 12 times.(›ş‚È
+d	php:S1192â"NDefine a constant instead of duplicating this literal "orddd_delete" 10 times.(â–ñ£
+h	php:S1192©"RDefine a constant instead of duplicating this literal "Mandatory field?:" 4 times.(³‘Í½
+m	php:S1192Ü"WDefine a constant instead of duplicating this literal "orddd_appearance_page" 21 times.(áîÅ‹
+v	php:S1192¨"`Define a constant instead of duplicating this literal "orddd_disable_time_slot_section" 4 times.(âÜŠ“
+p	php:S1192£	"UDefine a constant instead of duplicating this literal "orddd_delivery_dates" 3 times.(×ìòüÿÿÿÿ
+k	php:S1192Ö"UDefine a constant instead of duplicating this literal "orddd_date_settings" 15 times.(˜Èƒş
+v	php:S1192‚"`Define a constant instead of duplicating this literal "orddd_next_day_delivery_section" 4 times.(ûŠº
+w	php:S1192å	"\Define a constant instead of duplicating this literal "orddd_add_time_slot_section" 7 times.(íÃ‡‰üÿÿÿÿ
+k	php:S1192j"VDefine a constant instead of duplicating this literal "order-delivery-date" 301 times.(êÊ¬Î
+‰	php:S1192ÿ"nDefine a constant instead of duplicating this literal "orddd_calendar_sync_customer_settings_section" 5 times.(™«´ëûÿÿÿÿ
+~	php:S1192ø"hDefine a constant instead of duplicating this literal "orddd_calendar_import_ics_feeds_section" 5 times.(»††
+w	php:S1192Ë"\Define a constant instead of duplicating this literal "orddd_disable_time_slot_log" 4 times.(‡‡­şÿÿÿÿ
+~	php:S1192¤"hDefine a constant instead of duplicating this literal "orddd_shipping_based_appearance_section" 3 times.(¿‘ã—
+‚	php:S1192Â"gDefine a constant instead of duplicating this literal "orddd_compatibility_with_other_plugins" 3 times.(ÅÃÍãøÿÿÿÿ
+e	php:S1192É"JDefine a constant instead of duplicating this literal "time_slot" 5 times.(¡²©ÿÿÿÿÿ
+o	php:S1192?"ZDefine a constant instead of duplicating this literal "orddd_time_slot_settings" 23 times.(­Ïú¸
+{	php:S1192<"aDefine a constant instead of duplicating this literal "orddd_disable_time_slot_settings" 3 times.(»è§ìùÿÿÿÿ
+s	php:S1192À
+"]Define a constant instead of duplicating this literal "orddd_delivery_time_slot_log" 5 times.(ì¨×§
+~	php:S1192á"cDefine a constant instead of duplicating this literal "orddd_calendar_sync_settings_page" 24 times.(Ş“ß¥üÿÿÿÿ
+y	php:S1192Ñ
+"cDefine a constant instead of duplicating this literal "orddd_shipping_based_delivery_page" 4 times.(¶ÇŒ
+t	php:S1192–"_Define a constant instead of duplicating this literal "orddd_field_appearance_section" 8 times.(ç¶€
+_	php:S1192ğ"IDefine a constant instead of duplicating this literal "Holidays" 3 times.(Ê²ó’
+^	php:S1192¶"HDefine a constant instead of duplicating this literal "current" 6 times.(ì¬Á•
+u	php:S1192ò"_Define a constant instead of duplicating this literal "</form>
+                </div>" 5 times.(àÔ•Æ
+s	php:S1192ƒ	"XDefine a constant instead of duplicating this literal "Specific Delivery Date:" 3 times.(ÖæˆÔúÿÿÿÿ
+c	php:S1192¯"HDefine a constant instead of duplicating this literal "lockout" 4 times.(…Êúÿÿÿÿ
+_	php:S1192ã"IDefine a constant instead of duplicating this literal "action2" 10 times.(ë¡€¶
+{	php:S1192Š"eDefine a constant instead of duplicating this literal "orddd_shipping_days_settings_section" 3 times.(¾Ğåµ
+ƒ	php:S1192Ş"mDefine a constant instead of duplicating this literal "orddd_calendar_sync_general_settings_section" 4 times.(ã¤İÉ
+w	php:S1192Ù"bDefine a constant instead of duplicating this literal "orddd_calendar_appearance_section" 7 times.( Î5
+d	php:S1192Á"IDefine a constant instead of duplicating this literal "holidays" 3 times.(”Ù¡”üÿÿÿÿ
+†	php:S1192í"kDefine a constant instead of duplicating this literal "orddd_shipping_based_time_settings_section" 6 times.(ãõòêıÿÿÿÿ
+e	php:S1192¹"ODefine a constant instead of duplicating this literal "delivery_dates" 3 times.(¼Şç÷
+x	php:S1192Â"bDefine a constant instead of duplicating this literal "orddd_additional_settings_section" 9 times.(ˆ ì»
+‚	php:S1192ƒ"lDefine a constant instead of duplicating this literal "orddd_shipping_based_date_settings_section" 12 times.(æĞş€
+†	php:S1192ª"kDefine a constant instead of duplicating this literal "orddd_calendar_sync_admin_settings_section" 9 times.(¡Ö÷úÿÿÿÿ
+j	php:S1192½"ODefine a constant instead of duplicating this literal "shipping_based" 5 times.(³ç¼şÿÿÿÿ
+p	php:S1192Â"ZDefine a constant instead of duplicating this literal "orddd_time_settings_page" 13 times.(€Í®ˆ
+r	php:S1192Å"WDefine a constant instead of duplicating this literal "orddd_advance_settings" 3 times.(ó éÃøÿÿÿÿ
+j	php:S1192ñ"TDefine a constant instead of duplicating this literal "orddd_holidays_page" 6 times.(ùÛ÷Ğ
+m	php:S1192î"WDefine a constant instead of duplicating this literal "orddd_holidays_section" 5 times.(­ÛŞ¼
+d	php:S1192Ç"NDefine a constant instead of duplicating this literal "Time Settings" 3 times.(÷‚Í™
+^	php:S1192ì"HDefine a constant instead of duplicating this literal "<br><i>" 3 times.(œÀ²
+e	php:S1192ˆ"ODefine a constant instead of duplicating this literal "nav-tab-active" 5 times.(ıÌ›µ
+d	php:S1192ñ"IDefine a constant instead of duplicating this literal "primary" 10 times.(Ş‹“‹ıÿÿÿÿ
+u	php:S1192Ğ
+"_Define a constant instead of duplicating this literal "orddd_shipping_based_settings" 46 times.(ÌˆÉö
+n	php:S1192¯"SDefine a constant instead of duplicating this literal "additional_charges" 9 times.(…Êúÿÿÿÿ
+	php:S1192¡"fDefine a constant instead of duplicating this literal "orddd_shipping_based_timeslot_section" 9 times.(ÕàÂ®ùÿÿÿÿ
+^	php:S1192¯"IDefine a constant instead of duplicating this literal "section" 10 times.(¢”µF
+o	php:S1192k"UDefine a constant instead of duplicating this literal "Orddd_Date_Settings" 13 times.(Ğôãùÿÿÿÿ
+v	php:S1192÷
+"[Define a constant instead of duplicating this literal "orddd_shipping_based_page" 39 times.(©©£úÿÿÿÿ
+|	php:S1192Î
+"fDefine a constant instead of duplicating this literal "orddd_shipping_based_delivery_section" 3 times.(Ã®ÿ–
+r	php:S1192«"\Define a constant instead of duplicating this literal "orddd_holidays_disable_page" 5 times.(õ™ïø
+v	php:S1192Ä"[Define a constant instead of duplicating this literal "orddd_additional_settings" 36 times.(ƒ£êıÿÿÿÿ
+r	php:S1192Æ"\Define a constant instead of duplicating this literal "orddd_time_settings_section" 3 times.(•Ïòš
+s	php:S1192Ö"XDefine a constant instead of duplicating this literal "delivery_charges_label_" 5 times.(èÑĞêşÿÿÿÿ
+x	php:S1192›"]Define a constant instead of duplicating this literal "orddd_delivery_date_holidays" 3 times.(äÒııÿÿÿÿ
+r	php:S1192Õ"WDefine a constant instead of duplicating this literal "delivery_charges_label" 5 times.(­Í¨¾øÿÿÿÿ
+s	php:S1192Œ"]Define a constant instead of duplicating this literal "Orddd_Shipping_Days_Settings" 4 times.(İ®²
+[	php:S1192€"FDefine a constant instead of duplicating this literal "</h3>" 4 times.(˜ä§
+€	php:S1192Õ
+"eDefine a constant instead of duplicating this literal "orddd_enable_shipping_based_delivery" 3 times.(ÈÏ¶÷ıÿÿÿÿ
+j	php:S1192Ó"TDefine a constant instead of duplicating this literal "additional_charges_" 5 times.(ÎğÕú
+u	php:S1192"_Define a constant instead of duplicating this literal "orddd_enable_day_wise_settings" 3 times.(‹çÒË
+S	php:S1764˜"8Identical sub-expressions on both sides of operator "||"(‡ºéëûÿÿÿÿ
+N	php:S1764ı"8Identical sub-expressions on both sides of operator "||"(º‰ÑÆ
+S	php:S1764¸"8Identical sub-expressions on both sides of operator "||"(Ô¬ş‚ùÿÿÿÿ
+G	php:S1481ø"1Remove this unused "$plugin_path" local variable.(Úáá
+K	php:S1481ù"0Remove this unused "$check_prev" local variable.(‘ù×üÿÿÿÿ
+T	php:S1481®"9Remove this unused "$shipping_days_class" local variable.(µÎÌùúÿÿÿÿ
+A	php:S1481è"+Remove this unused "$c_key" local variable.(Š‹´®
+@	php:S1481ù"+Remove this unused "$d_key" local variable.(³¸ÓA
+B	php:S1481…"'Remove this unused "$k" local variable.(©Ö™ªıÿÿÿÿ
+D	php:S1481")Remove this unused "$arr" local variable.( ª´óùÿÿÿÿ
+A	php:S1481Ç"+Remove this unused "$h_key" local variable.(›¥ùª
+D	php:S1481Ñ")Remove this unused "$cnt" local variable.(ì‘™‡ıÿÿÿÿ
+A	php:S1481à"+Remove this unused "$t_key" local variable.(íéúª
+Y	php:S1481·">Remove this unused "$disable_timeslot_new_arr" local variable.(•á‹Æıÿÿÿÿ
+I	php:S1481É"3Remove this unused "$time_slot_key" local variable.(‰úï–
+@	php:S1481é"*Remove this unused "$page" local variable.(Îª°í
+§php:S138e"’This function "order_delivery_date_admin_settings" has 182 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(éÚÓ
+¡php:S138¿"ŒThis function "orddd_integration_of_plugins" has 205 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ú”å
+¤php:S138Ö"‰This function "orddd_appearance_settings" has 232 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Á¶¥Äøÿÿÿÿ
+±php:S138ñ
+"–This function "orddd_shipping_based_settings_callback" has 313 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(–¿¿¦üÿÿÿÿ
+ªphp:S138Û"•This function "orddd_calendar_sync_settings_callback" has 225 lines, which is greater than the 150 lines authorized. Split it into smaller functions.( Ê‘Z
+§php:S138ö"ŒThis function "order_delivery_date_settings" has 228 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(›±‰şÿÿÿÿ
+ php:S138ß"…This function "orddd_delete_settings" has 231 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(Òúß‘úÿÿÿÿ

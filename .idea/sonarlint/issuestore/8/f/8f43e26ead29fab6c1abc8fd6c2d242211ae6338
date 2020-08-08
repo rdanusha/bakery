@@ -1,0 +1,52 @@
+
+HWeb:TableWithoutCaptionCheck+" Add a description to this table.(’ô³Î
+:	Web:S5256+"%Add "<th>" headers to this "<table>".(’ô³Î
+B	Web:S18270"(Remove this deprecated "name" attribute.(òš–±üÿÿÿÿ
+B	Web:S18271"(Remove this deprecated "name" attribute.(Ãñê¾ûÿÿÿÿ
+B	Web:S1827@"(Remove this deprecated "name" attribute.(»ºÿ‹ÿÿÿÿÿ
+B	Web:S1827E"(Remove this deprecated "name" attribute.(»ºÿ‹ÿÿÿÿÿ
+GWeb:ImgWithoutAltCheckn"%Add an "alt" attribute to this image.(Ñ˜¡Õ
+xphp:S101"_Rename class "orddd_class_view_deliveries" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†ÀŠ­ÿÿÿÿÿ
+Z	php:S1854‚"?Remove this useless assignment to local variable '$print_data'.(¨ÍÜµûÿÿÿÿ
+i	php:S3776'"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(«›Ë›
+k	php:S3776¿"URefactor this function to reduce its Cognitive Complexity from 113 to the 15 allowed.(ú‰ì
+o	php:S3776“"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(¸¼ ¦úÿÿÿÿ
+a	php:S1871C"LThis branch's code block is the same as the block for the branch on line 62.(÷±½
+c	php:S1871"MThis branch's code block is the same as the block for the branch on line 412.(÷±½
+e	php:S1192•"JDefine a constant instead of duplicating this literal "orderType" 3 times.(á¤ñ‹ùÿÿÿÿ
+e	php:S1192¿"JDefine a constant instead of duplicating this literal "eventType" 4 times.(œ¡ùÓùÿÿÿÿ
+	php:S1192Ö"tDefine a constant instead of duplicating this literal "<tr> <td> <strong>Delivery Date:</strong></td><td> " 4 times.(øÜøúÿÿÿÿ
+…	php:S1192Û"pDefine a constant instead of duplicating this literal "<tr> <td> <strong>Time Slot:</strong></td><td> " 4 times.(çŠç
+\	php:S1192Å"FDefine a constant instead of duplicating this literal "3.0.0" 5 times.(ë¨Ãù
+c	php:S1192É"HDefine a constant instead of duplicating this literal "product" 7 times.(Ã–ßûÿÿÿÿ
+l	php:S1192Ë"QDefine a constant instead of duplicating this literal "event_product_id" 4 times.(¿ÿÿÿÿÿ
+»	php:S1192Û"ŸDefine a constant instead of duplicating this literal "</th>
+                                        <th style='border:1px solid black;padding:5px;'>" 7 times.(°‰Ãéüÿÿÿÿ
+e	php:S1192Ü"ODefine a constant instead of duplicating this literal "event_timeslot" 6 times.(µî¤è
+»	php:S1192ï"ŸDefine a constant instead of duplicating this literal "</td>
+                                        <td style='border:1px solid black;padding:5px;'>" 7 times.(»¦Ëëüÿÿÿÿ
+b	php:S1192Â"LDefine a constant instead of duplicating this literal "event_value" 3 times.(§…æü
+f	php:S1192Ó"KDefine a constant instead of duplicating this literal "</td></tr>" 9 times.(¬ò´Œøÿÿÿÿ
+c	php:S1192f"IDefine a constant instead of duplicating this literal "download" 6 times.(àìä“øÿÿÿÿ
+b	php:S1192Ô"LDefine a constant instead of duplicating this literal "event_date" 14 times.(¾Û›´
+€	php:S1192á"eDefine a constant instead of duplicating this literal "orddd_add_custom_field_value_to_qtip" 4 times.(İ€Ëëøÿÿÿÿ
+|	php:S1192·"aDefine a constant instead of duplicating this literal "' AND STR_TO_DATE( meta_value, '" 4 times.(Ğò ¹ÿÿÿÿÿ
+j	php:S1192Å"TDefine a constant instead of duplicating this literal "woocommerce_version" 3 times.(ë¨Ãù
+h	php:S1192–"MDefine a constant instead of duplicating this literal "variation_id" 6 times.(äíüûÿÿÿÿ
+_	php:S1192é"IDefine a constant instead of duplicating this literal "</table>" 3 times.(¹¬µ×
+d	php:S1192°"IDefine a constant instead of duplicating this literal "quantity" 7 times.(‚ÙŒ…ıÿÿÿÿ
+\	php:S1192¥"FDefine a constant instead of duplicating this literal "start" 3 times.(˜í–¿
+j	php:S1192*"UDefine a constant instead of duplicating this literal "order-delivery-date" 21 times.(Õœ»µ
+J	php:S1109–"/Move this closing curly brace to the next line.(Åì»œıÿÿÿÿ
+J	php:S1109¦"/Move this closing curly brace to the next line.(Åì»œıÿÿÿÿ
+r	php:S1488Ò"\Immediately return this expression instead of assigning it to the temporary variable "$csv".(ÖéÏ”
+D	php:S1481³")Remove this unused "$key" local variable.(Å´òáûÿÿÿÿ
+D	php:S1481¸".Remove this unused "$quantity" local variable.(¯…•«
+C	php:S1481É"(Remove this unused "$id" local variable.(´¶àÿûÿÿÿÿ
+E	php:S1481¼"*Remove this unused "$rkey" local variable.(­å¥Ãÿÿÿÿÿ
+@	php:S1481Ù"*Remove this unused "$mkey" local variable.(šÛüƒ
+X	php:S1481Á"=Remove this unused "$delivery_date_timestamp" local variable.(÷ã³ÿÿÿÿÿ
+@	php:S1481Ÿ"*Remove this unused "$mkey" local variable.(šÛüƒ
+D	php:S1481ç")Remove this unused "$key" local variable.(Å´òáûÿÿÿÿ
+K	php:S1481ì"5Remove this unused "$currency_symbol" local variable.(õÈÙ²
+C	php:S1481ò"(Remove this unused "$id" local variable.(œÃ²œÿÿÿÿÿ

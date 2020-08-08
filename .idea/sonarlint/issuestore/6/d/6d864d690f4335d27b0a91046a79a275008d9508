@@ -1,0 +1,8 @@
+
+d	php:S11929"JDefine a constant instead of duplicating this literal "</select>" 5 times.(¶ÍÙÈşÿÿÿÿ
+vphp:S101"]Rename class "Orddd_Appearance_Settings" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÄÉ÷Ùúÿÿÿÿ
+c	php:S1192ü"HDefine a constant instead of duplicating this literal "checked" 8 times.(ß€¨Ùûÿÿÿÿ
+‡	php:S1192‚"lDefine a constant instead of duplicating this literal "orddd_delivery_date_fields_on_checkout_page" 6 times.(áş†şÿÿÿÿ
+o	php:S1192"TDefine a constant instead of duplicating this literal "order-delivery-date" 7 times.(¦ÈœÜùÿÿÿÿ
+	php:S1448"uClass "Orddd_Appearance_Settings" has 21 methods, which is greater than 20 authorized. Split it into smaller classes.(ÄÉ÷Ùúÿÿÿÿ
+y	php:S1192L"dDefine a constant instead of duplicating this literal "<option %s value='%s'>%s</option>\n" 3 times.(¶àˆ

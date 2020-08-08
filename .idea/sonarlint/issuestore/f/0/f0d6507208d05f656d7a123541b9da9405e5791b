@@ -1,0 +1,336 @@
+
+J	php:S1135"4Complete the task associated to this "TODO" comment.(ÜÁ’Ö
+J	php:S1135õ"4Complete the task associated to this "TODO" comment.(×ßƒ°
+L	php:S1172˜"1Remove the unused function parameter "$checkout".(œ¯ôîÿÿÿÿÿ
+Q	php:S1172"6Remove the unused function parameter "$sent_to_admin".(£Íè©ùÿÿÿÿ
+L	php:S1172Ø"6Remove the unused function parameter "$sent_to_admin".(¶à‰¶
+L	php:S1172‚"6Remove the unused function parameter "$sent_to_admin".(Â†·
+Bphp:S108u")Either remove or fill this block of code.(‡óâçøÿÿÿÿ
+Cphp:S108ú	")Either remove or fill this block of code.(šá¤ñûÿÿÿÿ
+>php:S108Š
+")Either remove or fill this block of code.(³ı€†
+Cphp:S108«")Either remove or fill this block of code.(³¦ë÷ıÿÿÿÿ
+Cphp:S108È")Either remove or fill this block of code.(Ûº¼¦üÿÿÿÿ
+ephp:S101"QRename class "orddd_process" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(³œ™ß
+~	php:S1448"iClass "orddd_process" has 31 methods, which is greater than 20 authorized. Split it into smaller classes.(³œ™ß
+j	php:S1142´"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÃÔàÀıÿÿÿÿ
+J	php:S1066Ù"/Merge this if statement with the enclosing one.(šŞ¾Ÿúÿÿÿÿ
+E	php:S1066€"/Merge this if statement with the enclosing one.(ûâûØ
+J	php:S1066€"/Merge this if statement with the enclosing one.(˜ìŸÆøÿÿÿÿ
+J	php:S1066ˆ"/Merge this if statement with the enclosing one.(¸×Ç‡şÿÿÿÿ
+E	php:S1066“"/Merge this if statement with the enclosing one.(¢Óãğ
+J	php:S1066œ"/Merge this if statement with the enclosing one.(£šÓÕüÿÿÿÿ
+J	php:S1066¢"/Merge this if statement with the enclosing one.(€ºÃ”ıÿÿÿÿ
+E	php:S1066¨"/Merge this if statement with the enclosing one.(Ïªå¨
+J	php:S1066"/Merge this if statement with the enclosing one.(êü‹’ıÿÿÿÿ
+J	php:S1066Ÿ"/Merge this if statement with the enclosing one.(êü‹’ıÿÿÿÿ
+J	php:S1066"/Merge this if statement with the enclosing one.(ÍÏÜïüÿÿÿÿ
+J	php:S1066×"/Merge this if statement with the enclosing one.(êü‹’ıÿÿÿÿ
+J	php:S1066ì"/Merge this if statement with the enclosing one.(êü‹’ıÿÿÿÿ
+J	php:S1066ü"/Merge this if statement with the enclosing one.(êü‹’ıÿÿÿÿ
+J	php:S1066ş	"/Merge this if statement with the enclosing one.(õ–áşÿÿÿÿ
+E	php:S1066ı	"/Merge this if statement with the enclosing one.(şï†à
+J	php:S1066
+"/Merge this if statement with the enclosing one.(îùùÿÿÿÿ
+J	php:S1066
+"/Merge this if statement with the enclosing one.(âÔéìøÿÿÿÿ
+E	php:S1066î
+"/Merge this if statement with the enclosing one.(şï†à
+E	php:S1066í
+"/Merge this if statement with the enclosing one.(‡‘İá
+E	php:S1066ö
+"/Merge this if statement with the enclosing one.(‡‘İá
+J	php:S1066“"/Merge this if statement with the enclosing one.(ÊàÔñûÿÿÿÿ
+E	php:S1066‹"/Merge this if statement with the enclosing one.(¸†ê÷
+J	php:S1066"/Merge this if statement with the enclosing one.(£šÓÕüÿÿÿÿ
+J	php:S1066€"/Merge this if statement with the enclosing one.(£šÓÕüÿÿÿÿ
+J	php:S1066ı"/Merge this if statement with the enclosing one.(øÿ‰æùÿÿÿÿ
+E	php:S1066Ä"/Merge this if statement with the enclosing one.(˜ºÚö
+E	php:S1066¨"/Merge this if statement with the enclosing one.(˜ºÚö
+J	php:S1066á"/Merge this if statement with the enclosing one.(£šÓÕüÿÿÿÿ
+D	php:S1066‘"/Merge this if statement with the enclosing one.(½¶úk
+E	php:S1066³"/Merge this if statement with the enclosing one.(€è€¼
+D	php:S1066²"/Merge this if statement with the enclosing one.(¿™ú
+J	php:S1066Ã"/Merge this if statement with the enclosing one.(ííŠÙÿÿÿÿÿ
+D	php:S1066Â"/Merge this if statement with the enclosing one.(¿™ú
+E	php:S1066Ò"/Merge this if statement with the enclosing one.(Àóñ¼
+J	php:S1066Ø"/Merge this if statement with the enclosing one.(£šÓÕüÿÿÿÿ
+E	php:S1066†"/Merge this if statement with the enclosing one.(éö²Ó
+E	php:S1066§"/Merge this if statement with the enclosing one.(€è€¼
+D	php:S1066¦"/Merge this if statement with the enclosing one.(¿™ú
+J	php:S1066·"/Merge this if statement with the enclosing one.(ííŠÙÿÿÿÿÿ
+D	php:S1066¶"/Merge this if statement with the enclosing one.(¿™ú
+E	php:S1066Æ"/Merge this if statement with the enclosing one.(Àóñ¼
+J	php:S1066õ"/Merge this if statement with the enclosing one.(Æœ×³ûÿÿÿÿ
+D	php:S1066ô"/Merge this if statement with the enclosing one.(¿™ú
+J	php:S1066†"/Merge this if statement with the enclosing one.(ííŠÙÿÿÿÿÿ
+D	php:S1066…"/Merge this if statement with the enclosing one.(¿™ú
+E	php:S1066–"/Merge this if statement with the enclosing one.(ˆİİô
+E	php:S1066´"/Merge this if statement with the enclosing one.(™Şİ
+J	php:S1066®"/Merge this if statement with the enclosing one.(í¼Îûùÿÿÿÿ
+E	php:S1066Ñ"/Merge this if statement with the enclosing one.(™Şİ
+J	php:S1066Ë"/Merge this if statement with the enclosing one.(ì£¤©üÿÿÿÿ
+E	php:S1066è"/Merge this if statement with the enclosing one.(ó¾º¼
+E	php:S1066ó"/Merge this if statement with the enclosing one.(™Şİ
+J	php:S1066†"/Merge this if statement with the enclosing one.(ƒâèıÿÿÿÿ
+E	php:S1066‘"/Merge this if statement with the enclosing one.(™Şİ
+J	php:S1066˜"/Merge this if statement with the enclosing one.(‹’†øÿÿÿÿ
+_	php:S1854à"DRemove this useless assignment to local variable '$shipping_method'.(‘Ïéïüÿÿÿÿ
+`	php:S1854ß"ERemove this useless assignment to local variable '$shipping_methods'.(³Â¥üÿÿÿÿ
+f	php:S1854Ç"QRemove this useless assignment to local variable '$shipping_based_timeslot_fees'.(“¶ŒQ
+_	php:S1854Ô"DRemove this useless assignment to local variable '$shipping_method'.(‘Ïéïüÿÿÿÿ
+`	php:S1854Ó"ERemove this useless assignment to local variable '$shipping_methods'.(³Â¥üÿÿÿÿ
+k	php:S1854´"PRemove this useless assignment to local variable '$delivery_date_weekday_value'.(Ä¦ÕÃûÿÿÿÿ
+b	php:S1854È"LRemove this useless assignment to local variable '$is_date_lockout_reached'.(“±¯²
+b	php:S1854Ä"LRemove this useless assignment to local variable '$is_date_lockout_reached'.(“±¯²
+o	php:S3776å"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¦¸ÖÒıÿÿÿÿ
+j	php:S3776¿"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(’ü×’
+o	php:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(“À‘Íûÿÿÿÿ
+i	php:S3776ş"TRefactor this function to reduce its Cognitive Complexity from 54 to the 15 allowed.(ãóu
+j	php:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 74 to the 15 allowed.(Å“± 
+q	php:S3776é"VRefactor this function to reduce its Cognitive Complexity from 1085 to the 15 allowed.(ºÿØ²ùÿÿÿÿ
+j	php:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(ÙõÓû
+p	php:S3776"URefactor this function to reduce its Cognitive Complexity from 130 to the 15 allowed.(›¯ûÿÿÿÿ
+j	php:S3776à"TRefactor this function to reduce its Cognitive Complexity from 82 to the 15 allowed.(â»ø
+k	php:S3776ÿ"URefactor this function to reduce its Cognitive Complexity from 132 to the 15 allowed.(´­¨¦
+j	php:S3776±"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ğŠ•
+o	php:S3776½"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ùúèÚıÿÿÿÿ
+k	php:S3776¸"URefactor this function to reduce its Cognitive Complexity from 193 to the 15 allowed.(î‰Å
+k	php:S3776¬"URefactor this function to reduce its Cognitive Complexity from 199 to the 15 allowed.(ø³â
+o	php:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(ä·„•úÿÿÿÿ
+j	php:S3776ƒ"URefactor this function to reduce its Cognitive Complexity from 935 to the 15 allowed.(ÂØä#
+p	php:S3776“"URefactor this function to reduce its Cognitive Complexity from 341 to the 15 allowed.(‘¢Á§ûÿÿÿÿ
+p	php:S3776´"URefactor this function to reduce its Cognitive Complexity from 107 to the 15 allowed.(ÃÔàÀıÿÿÿÿ
+j	php:S3776© "TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(«¿í‚
+d	php:S1871Ğ"NThis branch's code block is the same as the block for the branch on line 1614.(íØĞ…
+i	php:S1871Ó"NThis branch's code block is the same as the block for the branch on line 1614.(ûÀÊôøÿÿÿÿ
+i	php:S1871Õ"NThis branch's code block is the same as the block for the branch on line 1614.(Šı…Ğüÿÿÿÿ
+7	php:S1110ú"!Remove these useless parentheses.(…Õºé
+k	php:S1192ò"PDefine a constant instead of duplicating this literal "Pickup Location" 3 times.(ş’¹ïüÿÿÿÿ
+w	php:S11927"]Define a constant instead of duplicating this literal "woocommerce_checkout_process" 6 times.(¡¦è€ıÿÿÿÿ
+d	php:S1192¬	"NDefine a constant instead of duplicating this literal "delivery_type" 4 times.(ì¸Ää
+|	php:S1192-"gDefine a constant instead of duplicating this literal "orddd_date_after_checkout_billing_form" 3 times.(•¦‹…
+h	php:S1192†"SDefine a constant instead of duplicating this literal "orddd_lockout_days" 4 times.(œ©$
+e	php:S1192"JDefine a constant instead of duplicating this literal "time_slot" 3 times.(¢™Éƒÿÿÿÿÿ
+„	php:S1192å"nDefine a constant instead of duplicating this literal "orddd_disable_next_day_delivery_after_minutes" 3 times.(äÃÍì
+e	php:S1192š"ODefine a constant instead of duplicating this literal "specific_dates" 9 times.(´ö®¯
+_	php:S1192ƒ"IDefine a constant instead of duplicating this literal "order_id" 4 times.(ç¶Ë
+m	php:S1192®"WDefine a constant instead of duplicating this literal "orddd_minimumOrderDays" 4 times.(´ç¶
+x	php:S1192¿"]Define a constant instead of duplicating this literal "orddd_delivery_time_slot_log" 3 times.(Ñ¼œæûÿÿÿÿ
+	php:S1192¾"dDefine a constant instead of duplicating this literal "orddd_edit_field_for_order_statuses" 4 times.(ƒğúÿÿÿÿ
+}	php:S1192‹"bDefine a constant instead of duplicating this literal "orddd_hide_delivery_on_my_account" 6 times.(ğ†ôâşÿÿÿÿ
+_	php:S1192Ú"IDefine a constant instead of duplicating this literal "<strong>" 3 times.(Ï‘¢¡
+f	php:S1192ó"PDefine a constant instead of duplicating this literal "hidden_timeslot" 6 times.(õ¨±ƒ
+d	php:S1192Í"IDefine a constant instead of duplicating this literal "disabled" 4 times.(í¨ˆ“ùÿÿÿÿ
+‡	php:S1192/"mDefine a constant instead of duplicating this literal "orddd_text_block_after_checkout_billing_form" 3 times.(‘¹± şÿÿÿÿ
+r	php:S1192¸ "\Define a constant instead of duplicating this literal "orddd_common_specific_dates" 3 times.(„‘Š«
+ƒ	php:S1192¶"mDefine a constant instead of duplicating this literal "orddd_change_same_day_delivery_charges_label" 4 times.(à÷
+`	php:S1192ï"JDefine a constant instead of duplicating this literal "timestamp" 3 times.(‹é¼«
+‚	php:S1192á"lDefine a constant instead of duplicating this literal "orddd_disable_same_day_delivery_after_hours" 5 times.(å´Ïİ
+x	php:S1192º"bDefine a constant instead of duplicating this literal "orddd_lockout_date_quantity_based" 3 times.(ê¨×÷
+š	php:S1192Æ"ƒDefine a constant instead of duplicating this literal " is not available for delivery. Please select a new delivery date." 4 times.(¶ˆÖ°
+m	php:S1192ì"WDefine a constant instead of duplicating this literal "orddd_gmt_calculations" 6 times.(õŞí
+k	php:S1192¯"UDefine a constant instead of duplicating this literal "As Soon As Possible." 3 times.(ÿ´•Í
+^	php:S1192š"HDefine a constant instead of duplicating this literal "lockout" 3 times.(Î©àº
+j	php:S1192‘"TDefine a constant instead of duplicating this literal "product_categories" 18 times.(ÉÑòš
+g	php:S1192“"LDefine a constant instead of duplicating this literal "address_key" 3 times.(ÊàÔñûÿÿÿÿ
+	php:S1192 "lDefine a constant instead of duplicating this literal "woocommerce_order_details_after_order_table" 3 times.(ŒÓö¨
+€	php:S1192ù"eDefine a constant instead of duplicating this literal "time_slot_enable_for_shipping_method" 5 times.(å¡´¤ıÿÿÿÿ
+}	php:S1192Ê
+"bDefine a constant instead of duplicating this literal "additional_charges_orddd_weekday_" 3 times.(Öªİüÿÿÿÿ
+w	php:S1192¥"\Define a constant instead of duplicating this literal "orddd_enable_delivery_date" 15 times.(†Ü²áøÿÿÿÿ
+{	php:S1192¬"`Define a constant instead of duplicating this literal "orddd_global_lockout_time_slots" 4 times.(ÕÕ˜ßıÿÿÿÿ
+	php:S1192A"gDefine a constant instead of duplicating this literal "woocommerce_checkout_update_order_meta" 3 times.(Ş«²ÿÿÿÿÿ
+x	php:S1192I"dDefine a constant instead of duplicating this literal "woocommerce_email_order_meta_fields" 3 times.(öàa
+y	php:S1192º"cDefine a constant instead of duplicating this literal "orddd_allow_customers_to_edit_date" 4 times.(æµ©Õ
+z	php:S1192Â"dDefine a constant instead of duplicating this literal " deliveries available for the date." 3 times.(ÁÁñÛ
+k	php:S1192Ú"UDefine a constant instead of duplicating this literal "is a required field." 3 times.(Ï‘¢¡
+|	php:S1192Ë"aDefine a constant instead of duplicating this literal "orddd_category_settings_to_load" 26 times.(ÏíÓïÿÿÿÿÿ
+‡	php:S1192“	"rDefine a constant instead of duplicating this literal "orddd_enable_tax_calculation_for_delivery_charges" 5 times.(õç³,
+_	php:S1192Œ"IDefine a constant instead of duplicating this literal "weekdays" 7 times.(õÀ¯ı
+d	php:S1192“"IDefine a constant instead of duplicating this literal "cart_key" 3 times.(ÊàÔñûÿÿÿÿ
+g	php:S1192Ô"QDefine a constant instead of duplicating this literal "orddd_time_slot" 23 times.(œà•ı
+€	php:S1192Ï"eDefine a constant instead of duplicating this literal "orddd_enable_specific_delivery_dates" 4 times.(Ïô×Ãùÿÿÿÿ
+v	php:S1192©"`Define a constant instead of duplicating this literal "orddd_delivery_checkout_options" 8 times.(¨¹¦×
+`	php:S1192—"JDefine a constant instead of duplicating this literal "post_data" 9 times.(ˆ¦Ø
+_	php:S1192ˆ
+"IDefine a constant instead of duplicating this literal "next_day" 4 times.(–°Ûö
+v	php:S1192ò"[Define a constant instead of duplicating this literal "orddd_location_field_label" 6 times.(ş’¹ïüÿÿÿÿ
+b	php:S1192Î"GDefine a constant instead of duplicating this literal "choose" 5 times.(Ì‰¼øÿÿÿÿ
+k	php:S1192"PDefine a constant instead of duplicating this literal "_custom_setting" 3 times.(¢™Éƒÿÿÿÿÿ
+f	php:S1192ä"PDefine a constant instead of duplicating this literal "orddd_weekday_" 16 times.(°„àÇ
+[	php:S1192‰"FDefine a constant instead of duplicating this literal "class" 4 times.(ß»Ç
+q	php:S1192² "VDefine a constant instead of duplicating this literal "orddd_common_weekdays" 3 times.(Ÿœ†úÿÿÿÿ
+a	php:S1192È"FDefine a constant instead of duplicating this literal "start" 6 times.(£öÿûÿÿÿÿ
+e	php:S1192ä"ODefine a constant instead of duplicating this literal "orddd_weekdays" 3 times.(°„àÇ
+~	php:S1192 "hDefine a constant instead of duplicating this literal "time_setting_enable_for_shipping_method" 3 times.(òºÎŒ
+a	php:S1192¡"FDefine a constant instead of duplicating this literal "label" 9 times.(Ù¦Ìšøÿÿÿÿ
+f	php:S1192ƒ"PDefine a constant instead of duplicating this literal "e_deliverydate" 12 times.(ÎÒË´
+u	php:S1192”	"_Define a constant instead of duplicating this literal "woocommerce_shipping_tax_class" 5 times.(Çï¶
+c	php:S1192‰"NDefine a constant instead of duplicating this literal "form-row-wide" 4 times.(ß»Ç
+j	php:S1192ú	"ODefine a constant instead of duplicating this literal "after_minutes" 10 times.(šá¤ñûÿÿÿÿ
+r	php:S1192Ş"WDefine a constant instead of duplicating this literal "orddd_advance_settings" 3 times.(ó éÃøÿÿÿÿ
+€	php:S1192."lDefine a constant instead of duplicating this literal "orddd_time_slot_after_checkout_billing_form" 3 times.(­Èp
+]	php:S1192Õ"GDefine a constant instead of duplicating this literal "select" 7 times.(Éå—Ä
+p	php:S1192V"VDefine a constant instead of duplicating this literal "orddd_cancel_delivery" 4 times.(Õ”â£ûÿÿÿÿ
+t	php:S1192Í "YDefine a constant instead of duplicating this literal "orddd_common_locked_days" 3 times.(¦†ñğıÿÿÿÿ
+d	php:S1192†"IDefine a constant instead of duplicating this literal "required" 6 times.(â‰ëıÿÿÿÿ
+h	php:S1192ˆ"RDefine a constant instead of duplicating this literal "custom_attributes" 4 times.(•´²Ú
+{	php:S1192œ"`Define a constant instead of duplicating this literal "orddd_shipping_package_to_load" 10 times.(£šÓÕüÿÿÿÿ
+h	php:S1192Í"RDefine a constant instead of duplicating this literal "delivery_calendar" 4 times.(Î‰õ’
+l	php:S1192¹"QDefine a constant instead of duplicating this literal "shipping_method" 92 times.(‰ˆ”ùÿÿÿÿ
+]	php:S1192¡"GDefine a constant instead of duplicating this literal "enable" 3 times.(Ô§àé
+w	php:S1192³"aDefine a constant instead of duplicating this literal "shipping_methods_for_categories" 12 times.(€è€¼
+•	php:S1192©"Define a constant instead of duplicating this literal " is not available for delivery. Please select a new time slot." 3 times.(„×¾È
+a	php:S1192©"KDefine a constant instead of duplicating this literal "text_block" 4 times.(¨¹¦×
+w	php:S1192š"aDefine a constant instead of duplicating this literal "orddd_email_before_delivery_date" 6 times.(«ÉÊ›
+g	php:S1192V"MDefine a constant instead of duplicating this literal "orddd_common" 5 times.(Õ”â£ûÿÿÿÿ
+b	php:S1192¾"GDefine a constant instead of duplicating this literal "fedex" 22 times.(Í´ªúÿÿÿÿ
+h	php:S1192"RDefine a constant instead of duplicating this literal "shipping_methods" 30 times.(¼àùí
+w	php:S11922"]Define a constant instead of duplicating this literal "woocommerce_cart_collaterals" 3 times.(ö«¶ùÿÿÿÿ
+[	php:S1192ü"FDefine a constant instead of duplicating this literal "style" 4 times.(‹‚û}
+v	php:S11921"aDefine a constant instead of duplicating this literal "orddd_delivery_date_on_cart_page" 3 times.(²’¬„
+a	php:S1192Ö"FDefine a constant instead of duplicating this literal "j-n-Y" 7 times.(‹âüøÿÿÿÿ
+l	php:S1192½"QDefine a constant instead of duplicating this literal "_orddd_timestamp" 8 times.(›öè™ùÿÿÿÿ
+v	php:S1192™"[Define a constant instead of duplicating this literal "orddd_get_shipping_method" 12 times.(¡Õ¶ûÿÿÿÿ
+	php:S1192Í
+"fDefine a constant instead of duplicating this literal "delivery_charges_label_orddd_weekday_" 3 times.(ìİ¥úÿÿÿÿ
+h	php:S1192•"RDefine a constant instead of duplicating this literal "Time Slot Charges" 5 times.(ª‘úë
+~	php:S1192ú"hDefine a constant instead of duplicating this literal "time_slot_mandatory_for_shipping_method" 4 times.(ÿ¢ÿ
+„	php:S1192â"nDefine a constant instead of duplicating this literal "orddd_disable_same_day_delivery_after_minutes" 3 times.(¥—¶ 
+]	php:S1192è"GDefine a constant instead of duplicating this literal "3.0.0" 12 times.(©Š³
+m	php:S1192º"WDefine a constant instead of duplicating this literal "orddd_enable_time_slot" 6 times.(›×èÉ
+o	php:S1192Š"TDefine a constant instead of duplicating this literal "additional_charges" 21 times.(Ã‰ı°şÿÿÿÿ
+l	php:S1192Ã "VDefine a constant instead of duplicating this literal "orddd_common_holidays" 3 times.(ŒÏü‰
+|	php:S1192l"gDefine a constant instead of duplicating this literal "orddd_disable_delivery_for_user_roles" 16 times.(îÎÙµ
+_	php:S1192ø	"IDefine a constant instead of duplicating this literal "same_day" 4 times.(©êìÉ
+y	php:S1192‹"cDefine a constant instead of duplicating this literal "date_mandatory_for_shipping_method" 3 times.(Öâª
+\	php:S1192©"FDefine a constant instead of duplicating this literal " for " 3 times.(„×¾È
+	php:S1192É"rDefine a constant instead of duplicating this literal "orddd_remove_delivery_date_if_product_category_no" 8 times.(öÁ´òûÿÿÿÿ
+a	php:S1192Â"KDefine a constant instead of duplicating this literal " has only " 7 times.(ÁÁñÛ
+\	php:S1192Ü"FDefine a constant instead of duplicating this literal "Y-m-d" 4 times.(÷ æÀ
+g	php:S1192µ"QDefine a constant instead of duplicating this literal "orddd_locations" 31 times.(¹µ´”
+t	php:S1192Ñ"^Define a constant instead of duplicating this literal "orddd_estimated_shipping_date" 3 times.(¥åì¶
+k	php:S1192Ì"PDefine a constant instead of duplicating this literal "h_deliverydate" 18 times.(¡¹Ş’ÿÿÿÿÿ
+€	php:S1192µ"eDefine a constant instead of duplicating this literal "orddd_advance_shipping_compatibility" 6 times.(ƒêÄÏúÿÿÿÿ
+a	php:S1192³	"KDefine a constant instead of duplicating this literal "/[A-Za-z]/" 8 times.(‡‘İá
+`	php:S1192Ú"JDefine a constant instead of duplicating this literal "</strong>" 3 times.(Ï‘¢¡
+‚	php:S1192ä"lDefine a constant instead of duplicating this literal "orddd_disable_next_day_delivery_after_hours" 5 times.(­„í
+f	php:S1192ó"KDefine a constant instead of duplicating this literal "<p>...</p>" 3 times.(«£Âòûÿÿÿÿ
+	php:S1192¦"iDefine a constant instead of duplicating this literal " deliveries available for the time slot " 3 times.(Å®££
+i	php:S1192€"NDefine a constant instead of duplicating this literal "orddd_process" 5 times.(¯©æøÿÿÿÿ
+c	php:S1192÷"HDefine a constant instead of duplicating this literal "checked" 6 times.(Ä–†Èşÿÿÿÿ
+b	php:S1192·"LDefine a constant instead of duplicating this literal "product_cat" 4 times.(¯òúé
+d	php:S1192Ï"IDefine a constant instead of duplicating this literal "selected" 4 times.(ÑĞ×ğüÿÿÿÿ
+c	php:S1192Î"MDefine a constant instead of duplicating this literal "date_lockout" 5 times.(¤ıÛÛ
+n	php:S1192å"SDefine a constant instead of duplicating this literal "orddd_lockout_date" 7 times.(šé·ùÿÿÿÿ
+u	php:S1192ì
+"_Define a constant instead of duplicating this literal "orddd_enable_same_day_delivery" 6 times.(ÇôÜç
+n	php:S1192ß"XDefine a constant instead of duplicating this literal "orddd_lockout_time_slot" 8 times.(Ü«Ùõ
+r	php:S1192"\Define a constant instead of duplicating this literal "delivery_settings_based_on" 38 times.(¼àùí
+c	php:S1192"NDefine a constant instead of duplicating this literal "selected_days" 3 times.(Ç¡’
+j	php:S1192H"UDefine a constant instead of duplicating this literal "woocommerce_version" 11 times.(ùËĞü
+{	php:S1192ğ"`Define a constant instead of duplicating this literal "orddd_delivery_date_field_label" 9 times.(ÏÙ£ñúÿÿÿÿ
+h	php:S1192ú	"MDefine a constant instead of duplicating this literal "after_hours" 12 times.(šá¤ñûÿÿÿÿ
+z	php:S1192õ
+"_Define a constant instead of duplicating this literal "orddd_enable_next_day_delivery" 6 times.(ÉŠİòûÿÿÿÿ
+v	php:S1192ò"`Define a constant instead of duplicating this literal "orddd_pre_delivery_date_display" 6 times.(œ‹µ 
+}	php:S1192Ğ"gDefine a constant instead of duplicating this literal "orddd_shipping_class_settings_to_load" 23 times.(íëß’
+k	php:S1192½"UDefine a constant instead of duplicating this literal "orddd_delivery_dates" 7 times.(âºû“
+s	php:S1192ç"XDefine a constant instead of duplicating this literal "_total_delivery_charges" 5 times.(¿€¡¯øÿÿÿÿ
+f	php:S1192·"KDefine a constant instead of duplicating this literal "view-order" 4 times.(Œ‘ÃÙùÿÿÿÿ
+a	php:S1192‹	"FDefine a constant instead of duplicating this literal "WOOCS" 4 times.(éşÆ øÿÿÿÿ
+]	php:S1192Û"GDefine a constant instead of duplicating this literal "error" 22 times.(ñË
+i	php:S1192¢"NDefine a constant instead of duplicating this literal "time_selected" 3 times.(¨î‹ˆşÿÿÿÿ
+a	php:S1192Ï"FDefine a constant instead of duplicating this literal "array" 4 times.(Ïô×Ãùÿÿÿÿ
+y	php:S1192¨"cDefine a constant instead of duplicating this literal "orddd_email_after_delivery_details" 8 times.(˜ºÚö
+a	php:S1192¢"FDefine a constant instead of duplicating this literal "value" 4 times.(úŠ”¯ıÿÿÿÿ
+	php:S1192¶"kDefine a constant instead of duplicating this literal "Advanced_Shipping_Packages_for_WooCommerce" 6 times.(Ğÿ‹Å
+l	php:S1192æ"VDefine a constant instead of duplicating this literal "hidden_h_deliverydate" 6 times.(À–áû
+{	php:S1192»"eDefine a constant instead of duplicating this literal "orddd_enable_shipping_based_delivery" 8 times.(Éßº
+q	php:S1192±"[Define a constant instead of duplicating this literal "orddd_enable_delivery_time" 4 times.(Á¶²²
+j	php:S1192±"ODefine a constant instead of duplicating this literal "orddd_zone_id" 19 times.(˜ìŸÆøÿÿÿÿ
+a	php:S1192„"KDefine a constant instead of duplicating this literal "time_slots" 6 times.(½“¹Ä
+p	php:S1192¼"UDefine a constant instead of duplicating this literal "order-delivery-date" 65 times.(é¥Öúÿÿÿÿ
+\	php:S1192œ"FDefine a constant instead of duplicating this literal "n-j-Y" 4 times.(²—ñ
+r	php:S1192Ì"WDefine a constant instead of duplicating this literal "hidden_shipping_method" 9 times.(æ—¯Èùÿÿÿÿ
+z	php:S1192¾"_Define a constant instead of duplicating this literal "wf_fedex_woocommerce_shipping" 22 times.(Í´ªúÿÿÿÿ
+u	php:S1192İ"_Define a constant instead of duplicating this literal "orddd_enable_day_wise_settings" 5 times.(¤†•Æ
+4php:S125ô"Remove this commented out code.(°‚ÑÊ
+4php:S125›"Remove this commented out code.(Î¨ñè
+4php:S125È"Remove this commented out code.(Î¨ñè
+O	php:S3801"4Refactor this function to use "return" consistently.(›¯ûÿÿÿÿ
+J	php:S3801à"4Refactor this function to use "return" consistently.(â»ø
+N	php:S1764ç"8Identical sub-expressions on both sides of operator "&&"(–®Ë›
+M	php:S1764Ÿ"8Identical sub-expressions on both sides of operator "&&"(Û‹Ür
+D	php:S1125š")Remove the literal "false" boolean value.(ú€ÖÜúÿÿÿÿ
+D	php:S1125Ù")Remove the literal "false" boolean value.(³£®ÿÿÿÿÿ
+S	php:S1481¦"=Remove this unused "$auto_populate_time_slot" local variable.(ã†åû
+T	php:S1481">Remove this unused "$shipping_methods_enabled" local variable.(ÍíÉ
+D	php:S1481‚")Remove this unused "$key" local variable.(Ôá²Ùÿÿÿÿÿ
+E	php:S1481¡"*Remove this unused "$pkey" local variable.(ªÅÎœùÿÿÿÿ
+@	php:S1481Â"*Remove this unused "$skey" local variable.(Ÿó¾”
+H	php:S1481Ú"-Remove this unused "$lockout" local variable.(ÃÔøéûÿÿÿÿ
+Q	php:S1481Ú"6Remove this unused "$previous_lockout" local variable.(ÃÔøéûÿÿÿÿ
+J	php:S1481Û"4Remove this unused "$specific_dates" local variable.(æÛğÂ
+I	php:S1481Û"3Remove this unused "$delivery_days" local variable.(æÛğÂ
+K	php:S1481İ"0Remove this unused "$time_slots" local variable.(ÀÖÎªıÿÿÿÿ
+=	php:S1481ë"'Remove this unused "$k" local variable.(àÿ…Ğ
+?	php:S1481ê")Remove this unused "$key" local variable.(ÂŒÿÁ
+W	php:S1481†"<Remove this unused "$shipping_based_lockout" local variable.(¤ıüıÿÿÿÿ
+?	php:S1481º ")Remove this unused "$key" local variable.(ñ¬î
+G	php:S1481Å"1Remove this unused "$closing_tag" local variable.(°‡ò´
+T	php:S1481ü"9Remove this unused "$applied_coupons_key" local variable.(‡Åİ€ûÿÿÿÿ
+N	php:S1481˜"8Remove this unused "$delivery_date_type" local variable.(˜¨ÚÛ
+N	php:S1481"3Remove this unused "$lpp_locations" local variable.(½Çüÿÿÿÿ
+O	php:S1481¢"4Remove this unused "$locations_type" local variable.(ÄúïËûÿÿÿÿ
+Q	php:S1481§";Remove this unused "$category_to_load_type" local variable.( ‹Ö÷
+W	php:S1481­"ARemove this unused "$shipping_class_to_load_type" local variable.(ÂäôÛ
+^	php:S1481·"CRemove this unused "$shipping_package_to_load_type" local variable.(ïÌ÷óûÿÿÿÿ
+O	php:S1481¾"4Remove this unused "$time_slot_type" local variable.(ç¶Ú¦ûÿÿÿÿ
+S	php:S1481Ã"8Remove this unused "$orddd_zone_id_type" local variable.(×û¦ıÿÿÿÿ
+A	php:S1481ã",Remove this unused "$row_id" local variable.(—ªÈ
+F	php:S1481‚"1Remove this unused "$setting_key" local variable.(ÚçL
+S	php:S1481ƒ"8Remove this unused "$delivery_dates_str" local variable.(¤÷Üƒùÿÿÿÿ
+V	php:S1481ƒ";Remove this unused "$setting_to_load_value" local variable.(¤÷Üƒùÿÿÿÿ
+N	php:S1481†"3Remove this unused "$time_slot_str" local variable.(„Àó˜şÿÿÿÿ
+>	php:S1481‡"(Remove this unused "$hk" local variable.(Ï®ÒÒ
+>	php:S1481")Remove this unused "$key" local variable.(Ç¡’
+>	php:S1481Â"(Remove this unused "$dk" local variable.(êıó
+E	php:S1481Ò"*Remove this unused "$dkey" local variable.(–Î»½ùÿÿÿÿ
+=	php:S1481¤	"'Remove this unused "$i" local variable.(ÚŞöæ
+W	php:S1481¦	"<Remove this unused "$specific_charges_label" local variable.(·©÷ƒÿÿÿÿÿ
+>	php:S1481·	"(Remove this unused "$sk" local variable.(•ü
+K	php:S1481À"0Remove this unused "$time_slots" local variable.(ãºÕ¬úÿÿÿÿ
+N	php:S1481¹"3Remove this unused "$cart_item_key" local variable.(…¼çíøÿÿÿÿ
+?	php:S1481õ")Remove this unused "$key" local variable.(”™Û‹
+D	php:S1481È")Remove this unused "$key" local variable.(Ôá²Ùÿÿÿÿÿ
+>	php:S1481œ"(Remove this unused "$sk" local variable.(•ü
+=	php:S1481§"'Remove this unused "$k" local variable.(†ÓŞ
+L	php:S1481Ã"1Remove this unused "$notice_type" local variable.(øòî ıÿÿÿÿ
+L	php:S1481‰"6Remove this unused "$previous_lockout" local variable.(”ÜÉ¢
+>	php:S1481•"(Remove this unused "$tk" local variable.(£‰¬
+E	php:S1481É"*Remove this unused "$dkey" local variable.(–Î»½ùÿÿÿÿ
+R	php:S1481ë"=Remove this unused "$time_slot_lockout_there" local variable.(â @
+X	php:S1481³"=Remove this unused "$delivery_date_timestamp" local variable.(Ú¥˜çşÿÿÿÿ
+D	php:S1481İ")Remove this unused "$key" local variable.(Ôá²Ùÿÿÿÿÿ
+L	php:S1481Ş"6Remove this unused "$shipping_methods" local variable.(ƒî¨ä
+E	php:S1481ï"*Remove this unused "$pkey" local variable.(¹¥·ãÿÿÿÿÿ
+R	php:S1481÷"<Remove this unused "$is_combination_enabled" local variable.(‘¦ã
+G	php:S1481¶"1Remove this unused "$notice_type" local variable.(ñË
+C	php:S1481æ"(Remove this unused "$ak" local variable.(„×¼ÿÿÿÿÿ
+G	php:S1481Ğ"1Remove this unused "$notice_type" local variable.(ñË
+T	php:S1481Š">Remove this unused "$shipping_methods_enabled" local variable.(ÍíÉ
+D	php:S1481Œ")Remove this unused "$key" local variable.(Ôá²Ùÿÿÿÿÿ
+E	php:S1481­"*Remove this unused "$pkey" local variable.(ªÅÎœùÿÿÿÿ
+@	php:S1481Î"*Remove this unused "$skey" local variable.(Ÿó¾”
+<	php:S1481ñ"'Remove this unused "$k" local variable.(œ²áa
+L	php:S1481‡"6Remove this unused "$timeslot_new_arr" local variable.(ˆíŸ·
+I	php:S1481Î"3Remove this unused "$disabled_days" local variable.(—„ç
+G	php:S1481Û"1Remove this unused "$notice_type" local variable.(ñË
+¦php:S138é"‹This function "orddd_add_delivery_date_fee" has 671 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ºÿØ²ùÿÿÿÿ
+°php:S138"•This function "orddd_update_order_meta_delivery_date" has 178 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(›¯ûÿÿÿÿ
+Ÿphp:S138¸"‰This function "orddd_update_lockout_days" has 205 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(î‰Å
+œphp:S138¬"†This function "orddd_update_time_slot" has 217 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ø³â
+php:S138ƒ"ˆThis function "orddd_availability_check" has 456 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ÂØä#
+¨php:S138“"This function "orddd_validate_available_time" has 243 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(‘¢Á§ûÿÿÿÿ
