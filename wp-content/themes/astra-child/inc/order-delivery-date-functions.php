@@ -16,7 +16,7 @@
 function get_orders_for_selected_delivery_date()
 {
     global $wpdb;
-    $date = $_SESSION["delivery_date"];
+    $date = (isset($_SESSION["delivery_date"]) && !empty($_SESSION["delivery_date"])) ? $_SESSION["delivery_date"] : date('Y-m-d');
     $selected_delivery_date = date('j F, Y', strtotime($date));
 
     $customer_orders = get_posts(array(
@@ -166,7 +166,7 @@ add_action('woocommerce_archive_description', 'display_change_delivery_date_link
 function add_static_stock_quantity_field()
 {
     $args = array(
-        'label' => 'Daily static quantity',
+        'label' => 'Daily Stock Quantity',
         'class' => 'short wc_input_stock',
         'id' => 'static_quantity',
         'name' => 'static_quantity',
