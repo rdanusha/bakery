@@ -93,6 +93,8 @@ function delivery_date_shortcode_function()
 {
 
     $action_url = esc_url(admin_url("admin-post.php"));
+    $popup_message =  (get_option( 'popup_message', 1 ))?nl2br(get_option( 'popup_message', 1 )):'';
+
 
     $date = (isset($_SESSION["delivery_date"]) && !empty($_SESSION["delivery_date"])) ? $_SESSION["delivery_date"] : date('Y-m-d');
 
@@ -103,6 +105,8 @@ function delivery_date_shortcode_function()
     $html .= "<button class='btn submit pum-close popmake-close' type='submit' name='set-del'>Submit</button>";
     $html .= "<button class='btn cancel' type='reset' name='cancel'>Cancel</button>";
     $html .= "</form>";
+    $html .= "</form>";
+    $html .= "<p>$popup_message</p>";
 
     $maxDate = (get_option( 'max_date', 1 ))?get_option( 'max_date', 1 ):'null';
 
@@ -152,8 +156,11 @@ add_action('wp_ajax_nopriv_set_delivery_date', 'set_delivery_date_ajax_callback'
  */
 function display_change_delivery_date_link()
 {
-    $alt_text = __("If you change the delivery date you have to add products to cart again", 'woocommerce');
+    $date = (isset($_SESSION["delivery_date"]) && !empty($_SESSION["delivery_date"])) ? $_SESSION["delivery_date"] : date('Y-m-d');
+    $formatted_date = date('j F, Y', strtotime($date));
+    $alt_text = (get_option( 'popup_message', 1 ))?get_option( 'popup_message', 1 ):'';
     $html = '<a href="javascript:void(0)" title="' . $alt_text . '" class="button popmake-delivery-date" id="change-delivery-date">Change Delivery Date</a>';
+    $html .= '<p>Selected Delivery Date: '.$formatted_date.'</p>';
     echo $html;
 }
 
@@ -192,6 +199,14 @@ function add_maximum_selectable_date_setting($settings)
                 'css' => 'min-width:300px;',
                 'default' => '4',  // WC >= 2.0
                 'desc' => __('The maximum selectable date on delivery date calender. When set to 0, there is no maximum.', 'max_date'),
+            );
+            $updated_settings[] = array(
+                'name' => __('Popup message', 'max_date'),
+                'id' => 'popup_message',
+                'type' => 'textarea',
+                'css' => '',
+                'default' => 'If you change the delivery date you have to add products to cart again.',  // WC >= 2.0
+                'desc' => __('Add message to display on delivery date popup', 'max_date'),
             );
         }
         $updated_settings[] = $section;
